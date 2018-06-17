@@ -1,0 +1,1882 @@
+﻿Log file open, 06/16/18 19:37:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProceduralGenerator
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1186037442) SRandInit(-1186037442).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.184260
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/paull/Desktop/Unreal Shits/ProceduralGenerator/Binaries/Win64/UE4Editor-ProceduralGenerator.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.17-02.37.49:254][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.17-02.37.49:254][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.17-02.37.49:291][  0]LogInit: Computer: LAPTOP-K4QFPDC4
+[2018.06.17-02.37.49:291][  0]LogInit: User: paull
+[2018.06.17-02.37.49:291][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.17-02.37.49:291][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2018.06.17-02.37.49:291][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.06.17-02.37.49:291][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.17-02.37.49:291][  0]LogMemory: Process Physical Memory: 273.20 MB used, 273.20 MB peak
+[2018.06.17-02.37.49:291][  0]LogMemory: Process Virtual Memory: 271.89 MB used, 271.89 MB peak
+[2018.06.17-02.37.49:291][  0]LogMemory: Physical Memory: 6354.66 MB used,  9912.94 MB free, 16267.60 MB total
+[2018.06.17-02.37.49:291][  0]LogMemory: Virtual Memory: 4781.07 MB used,  9912.94 MB free, 134217728.00 MB total
+[2018.06.17-02.37.49:472][  0]LogInit: Using OS detected language (en-US).
+[2018.06.17-02.37.49:472][  0]LogInit: Using OS detected locale (en-CA).
+[2018.06.17-02.37.49:475][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.17-02.37.49:935][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.17-02.37.50:219][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.17-02.37.50:270][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.06.17-02.37.50:270][  0]LogD3D11RHI:       6084/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.17-02.37.50:280][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.06.17-02.37.50:280][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.06.17-02.37.50:281][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.17-02.37.50:281][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.17-02.37.50:281][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.17-02.37.50:298][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.17-02.37.50:298][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.17-02.37.50:298][  0]LogWindows: EnumDisplayDevices:
+[2018.06.17-02.37.50:298][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.06.17-02.37.50:299][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.06.17-02.37.50:299][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.06.17-02.37.50:299][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.06.17-02.37.50:299][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.17-02.37.50:299][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.06.17-02.37.50:299][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.17-02.37.50:299][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.17-02.37.50:299][  0]LogRHI: Texture pool is 4259 MB (70% of 6084 MB)
+[2018.06.17-02.37.50:322][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.17-02.37.50:337][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.06.17-02.37.50:338][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/paull/Desktop/Unreal Shits/ProceduralGenerator/Intermediate/Shaders/WorkingDirectory/16844/).
+[2018.06.17-02.37.50:338][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/paull/AppData/Local/Temp/UnrealShaderWorkingDir/2D98D15E430A9BED3B7832BE230CF7BD/'.
+[2018.06.17-02.37.50:338][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.17-02.37.51:381][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.17-02.37.51:446][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.17-02.37.51:517][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.17-02.37.51:588][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.17-02.37.51:654][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.17-02.37.51:717][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.17-02.37.51:780][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.17-02.37.51:842][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.17-02.37.51:905][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.17-02.37.51:965][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.17-02.37.52:024][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.17-02.37.52:082][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.17-02.37.52:143][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.17-02.37.52:201][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.17-02.37.52:337][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.17-02.37.52:337][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.17-02.37.52:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.17-02.37.52:458][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.17-02.37.52:558][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.17-02.37.52:591][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.17-02.37.52:648][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.17-02.37.52:705][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.17-02.37.52:762][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.17-02.37.52:820][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.17-02.37.52:820][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.17-02.37.53:370][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.17-02.37.53:440][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/paull/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.17-02.37.53:440][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/paull/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.06.17-02.37.53:441][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/paull/Desktop/Unreal Shits/ProceduralGenerator/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.17-02.37.53:441][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.17-02.37.53:441][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/paull/Desktop/Unreal Shits/ProceduralGenerator/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.17-02.37.53:441][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.17-02.37.53:459][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.17-02.37.53:471][  0]LogDerivedDataCache: Using Local data cache path C:/Users/paull/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.17-02.37.53:482][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.17-02.37.53:483][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.17-02.37.53:483][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.17-02.37.53:483][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.17-02.37.53:870][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.17-02.37.54:250][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.17-02.37.54:296][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.17-02.37.54:296][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.17-02.37.54:296][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.17-02.37.54:296][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.17-02.37.54:296][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.17-02.37.54:326][  0]LogNetVersion: ProceduralGenerator , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2574396433)
+[2018.06.17-02.37.54:522][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.06.17-02.37.55:086][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.072637 seconds
+[2018.06.17-02.37.55:092][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.06.17-02.37.55:092][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.06.17-02.37.55:092][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.17-02.37.55:151][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.06.17-02.37.58:170][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.17-02.37.58:218][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.17-02.37.59:060][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.06.17-02.37.59:605][  0]SourceControl: Source control is disabled
+[2018.06.17-02.37.59:605][  0]SourceControl: Source control is disabled
+[2018.06.17-02.37.59:666][  0]SourceControl: Source control is disabled
+[2018.06.17-02.37.59:728][  0]SourceControl: Source control is disabled
+[2018.06.17-02.38.00:682][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.17-02.38.00:993][  0]LogOcInput: OculusInput pre-init called
+[2018.06.17-02.38.01:303][  0]LogEngine: Initializing Engine...
+[2018.06.17-02.38.01:305][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.17-02.38.01:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.17-02.38.01:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.17-02.38.01:675][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.17-02.38.01:681][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.17-02.38.01:698][  0]LogInit: FAudioDevice initialized.
+[2018.06.17-02.38.01:790][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/paull/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.17-02.38.01:811][  0]LogInit: Texture streaming: Enabled
+[2018.06.17-02.38.01:922][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.17-02.38.02:084][  0]LogInit: Transaction tracking system initialized
+[2018.06.17-02.38.02:442][  0]BlueprintLog: New page: Editor Load
+[2018.06.17-02.38.03:464][  0]LocalizationService: Localization service is disabled
+[2018.06.17-02.38.04:479][  0]LogConsoleResponse: Display: 
+[2018.06.17-02.38.04:709][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.17-02.38.04:709][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.17-02.38.04:709][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.17-02.38.05:566][  0]LogFileCache: Scanning file cache for directory 'C:/Users/paull/Desktop/Unreal Shits/ProceduralGenerator/Content/' took 0.02s
+[2018.06.17-02.38.06:104][  0]SourceControl: Source control is disabled
+[2018.06.17-02.38.06:104][  0]Cmd: MAP LOAD FILE="../../../../../../Users/paull/Desktop/Unreal Shits/ProceduralGenerator/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.17-02.38.06:115][  0]LightingResults: New page: Lighting Build
+[2018.06.17-02.38.06:163][  0]MapCheck: New page: Map Check
+[2018.06.17-02.38.06:163][  0]LightingResults: New page: Lighting Build
+[2018.06.17-02.38.06:958][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.06.17-02.38.06:976][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.17-02.38.06:990][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.17-02.38.07:051][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.074ms to complete.
+[2018.06.17-02.38.07:051][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.947
+[2018.06.17-02.38.07:297][  0]LogCollectionManager: Loaded 0 collections in 0.001950 seconds
+[2018.06.17-02.38.07:418][  0]LogFileCache: Scanning file cache for directory 'C:/Users/paull/Desktop/Unreal Shits/ProceduralGenerator/Saved/Collections/' took 0.01s
+[2018.06.17-02.38.07:418][  0]LogFileCache: Scanning file cache for directory 'C:/Users/paull/Desktop/Unreal Shits/ProceduralGenerator/Content/Developers/paull/Collections/' took 0.01s
+[2018.06.17-02.38.07:418][  0]LogFileCache: Scanning file cache for directory 'C:/Users/paull/Desktop/Unreal Shits/ProceduralGenerator/Content/Collections/' took 0.01s
+[2018.06.17-02.38.07:418][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.17-02.38.07:444][  0]LogContentBrowser: Native class hierarchy populated in 0.0229 seconds. Added 2369 classes and 521 folders.
+[2018.06.17-02.38.07:557][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.06.17-02.38.08:057][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.06.17-02.38.08:142][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.06.17-02.38.08:494][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2018.06.17-02.38.08:494][  0]LogLoad: (Engine Initialization) Total time: 22.71 seconds
+[2018.06.17-02.38.08:494][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.17-02.38.08:495][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.06.17-02.38.08:495][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.06.17-02.38.08:524][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.17-02.38.08:549][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.17-02.38.08:550][  0]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.17-02.38.08:553][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.17-02.38.08:567][  0]LogSlate: Took 0.008093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.17-02.38.08:775][  0]LogSlate: Took 0.005741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.17-02.38.08:809][  1]LogAssetRegistry: Asset discovery search completed in 14.3097 seconds
+[2018.06.17-02.38.08:811][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.17-02.38.08:811][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000099 seconds (updated 0 objects)
+[2018.06.17-02.38.08:838][  2]LogRenderer: Reallocating scene render targets to support 588x320 Format 10 NumSamples 1 (Frame:1).
+[2018.06.17-02.38.19:593][637]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.17-02.38.20:412][637]LogAIModule: Creating AISystem for world ProceduralGeneratingRockTreeSpawner
+[2018.06.17-02.38.20:434][637]Cmd: MAP LOAD FILE="../../../../../../Users/paull/Desktop/Unreal Shits/ProceduralGenerator/Content/ProceduralGeneratingRockTreeSpawner.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.17-02.38.20:435][637]LightingResults: New page: Lighting Build
+[2018.06.17-02.38.20:435][637]LoadErrors: New page: Loading map: ProceduralGeneratingRockTreeSpawner.umap
+[2018.06.17-02.38.20:436][637]MapCheck: New page: Map Check
+[2018.06.17-02.38.20:436][637]LightingResults: New page: Lighting Build
+[2018.06.17-02.38.20:510][637]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.17-02.38.20:550][637]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.17-02.38.20:612][637]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.102ms to complete.
+[2018.06.17-02.38.20:612][637]LogFileHelpers: Loading map 'ProceduralGeneratingRockTreeSpawner' took 0.178
+[2018.06.17-02.38.22:918][737]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2018.06.17-02.38.23:636][737]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.17-02.38.31:556][164]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.17-02.38.31:614][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.17-02.38.31:615][164]PIE: New page: PIE session: ProceduralGeneratingRockTreeSpawner (Jun 16, 2018, 12:38:31 PM)
+[2018.06.17-02.38.31:615][164]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProceduralGeneratingRockTreeSpawner
+[2018.06.17-02.38.31:624][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008916s)
+[2018.06.17-02.38.31:625][164]LogAIModule: Creating AISystem for world ProceduralGeneratingRockTreeSpawner
+[2018.06.17-02.38.31:625][164]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2018.06.17-02.38.31:625][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProceduralGeneratingRockTreeSpawner.ProceduralGeneratingRockTreeSpawner to /Game/UEDPIE_0_ProceduralGeneratingRockTreeSpawner.ProceduralGeneratingRockTreeSpawner (0.009880s)
+[2018.06.17-02.38.31:645][164]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.17-02.38.31:658][164]LogInit: FAudioDevice initialized.
+[2018.06.17-02.38.31:756][164]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ProceduralGenerator.ProceduralGeneratorGameMode'
+[2018.06.17-02.38.31:756][164]LogLoad: Game class is 'GameModeBase'
+[2018.06.17-02.38.31:761][164]LogWorld: Bringing World /Game/UEDPIE_0_ProceduralGeneratingRockTreeSpawner.ProceduralGeneratingRockTreeSpawner up for play (max tick rate 60) at 2018.06.16-19.38.31
+[2018.06.17-02.38.31:761][164]LogWorld: Bringing up level for play took: 0.000757
+[2018.06.17-02.38.31:817][164]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.06.17-02.38.33:369][164]PIE: Play in editor start time for /Game/UEDPIE_0_ProceduralGeneratingRockTreeSpawner 2.273
+[2018.06.17-02.38.33:379][164]LogMyGame: Warning: print
+[2018.06.17-02.38.33:475][164]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.06.17-02.38.33:599][165]LogMyGame: Warning: print
+[2018.06.17-02.38.33:629][166]LogMyGame: Warning: print
+[2018.06.17-02.38.33:685][167]LogMyGame: Warning: print
+[2018.06.17-02.38.33:743][168]LogMyGame: Warning: print
+[2018.06.17-02.38.33:766][169]LogMyGame: Warning: print
+[2018.06.17-02.38.33:793][170]LogMyGame: Warning: print
+[2018.06.17-02.38.33:816][171]LogMyGame: Warning: print
+[2018.06.17-02.38.33:844][172]LogMyGame: Warning: print
+[2018.06.17-02.38.33:871][173]LogMyGame: Warning: print
+[2018.06.17-02.38.33:902][174]LogMyGame: Warning: print
+[2018.06.17-02.38.33:932][175]LogMyGame: Warning: print
+[2018.06.17-02.38.33:961][176]LogMyGame: Warning: print
+[2018.06.17-02.38.33:993][177]LogMyGame: Warning: print
+[2018.06.17-02.38.34:019][178]LogMyGame: Warning: print
+[2018.06.17-02.38.34:047][179]LogMyGame: Warning: print
+[2018.06.17-02.38.34:077][180]LogMyGame: Warning: print
+[2018.06.17-02.38.34:105][181]LogMyGame: Warning: print
+[2018.06.17-02.38.34:129][182]LogMyGame: Warning: print
+[2018.06.17-02.38.34:154][183]LogMyGame: Warning: print
+[2018.06.17-02.38.34:180][184]LogMyGame: Warning: print
+[2018.06.17-02.38.34:209][185]LogMyGame: Warning: print
+[2018.06.17-02.38.34:232][186]LogMyGame: Warning: print
+[2018.06.17-02.38.34:255][187]LogMyGame: Warning: print
+[2018.06.17-02.38.34:282][188]LogMyGame: Warning: print
+[2018.06.17-02.38.34:311][189]LogMyGame: Warning: print
+[2018.06.17-02.38.34:335][190]LogMyGame: Warning: print
+[2018.06.17-02.38.34:363][191]LogMyGame: Warning: print
+[2018.06.17-02.38.34:392][192]LogMyGame: Warning: print
+[2018.06.17-02.38.34:421][193]LogMyGame: Warning: print
+[2018.06.17-02.38.34:453][194]LogMyGame: Warning: print
+[2018.06.17-02.38.34:484][195]LogMyGame: Warning: print
+[2018.06.17-02.38.34:593][196]LogMyGame: Warning: print
+[2018.06.17-02.38.34:614][197]LogMyGame: Warning: print
+[2018.06.17-02.38.34:638][198]LogMyGame: Warning: print
+[2018.06.17-02.38.34:663][199]LogMyGame: Warning: print
+[2018.06.17-02.38.34:692][200]LogMyGame: Warning: print
+[2018.06.17-02.38.34:721][201]LogMyGame: Warning: print
+[2018.06.17-02.38.34:752][202]LogMyGame: Warning: print
+[2018.06.17-02.38.34:779][203]LogMyGame: Warning: print
+[2018.06.17-02.38.34:808][204]LogMyGame: Warning: print
+[2018.06.17-02.38.34:837][205]LogMyGame: Warning: print
+[2018.06.17-02.38.34:868][206]LogMyGame: Warning: print
+[2018.06.17-02.38.34:897][207]LogMyGame: Warning: print
+[2018.06.17-02.38.34:927][208]LogMyGame: Warning: print
+[2018.06.17-02.38.34:957][209]LogMyGame: Warning: print
+[2018.06.17-02.38.34:987][210]LogMyGame: Warning: print
+[2018.06.17-02.38.35:018][211]LogMyGame: Warning: print
+[2018.06.17-02.38.35:050][212]LogMyGame: Warning: print
+[2018.06.17-02.38.35:083][213]LogMyGame: Warning: print
+[2018.06.17-02.38.35:116][214]LogMyGame: Warning: print
+[2018.06.17-02.38.35:148][215]LogMyGame: Warning: print
+[2018.06.17-02.38.35:184][216]LogMyGame: Warning: print
+[2018.06.17-02.38.35:218][217]LogMyGame: Warning: print
+[2018.06.17-02.38.35:250][218]LogMyGame: Warning: print
+[2018.06.17-02.38.35:282][219]LogMyGame: Warning: print
+[2018.06.17-02.38.35:316][220]LogMyGame: Warning: print
+[2018.06.17-02.38.35:347][221]LogMyGame: Warning: print
+[2018.06.17-02.38.35:377][222]LogMyGame: Warning: print
+[2018.06.17-02.38.35:408][223]LogMyGame: Warning: print
+[2018.06.17-02.38.35:441][224]LogMyGame: Warning: print
+[2018.06.17-02.38.35:475][225]LogMyGame: Warning: print
+[2018.06.17-02.38.35:507][226]LogMyGame: Warning: print
+[2018.06.17-02.38.35:539][227]LogMyGame: Warning: print
+[2018.06.17-02.38.35:570][228]LogMyGame: Warning: print
+[2018.06.17-02.38.35:602][229]LogMyGame: Warning: print
+[2018.06.17-02.38.35:632][230]LogMyGame: Warning: print
+[2018.06.17-02.38.35:663][231]LogMyGame: Warning: print
+[2018.06.17-02.38.35:695][232]LogMyGame: Warning: print
+[2018.06.17-02.38.35:726][233]LogMyGame: Warning: print
+[2018.06.17-02.38.35:755][234]LogMyGame: Warning: print
+[2018.06.17-02.38.35:785][235]LogMyGame: Warning: print
+[2018.06.17-02.38.35:815][236]LogMyGame: Warning: print
+[2018.06.17-02.38.35:844][237]LogMyGame: Warning: print
+[2018.06.17-02.38.35:873][238]LogMyGame: Warning: print
+[2018.06.17-02.38.35:902][239]LogMyGame: Warning: print
+[2018.06.17-02.38.35:931][240]LogMyGame: Warning: print
+[2018.06.17-02.38.35:961][241]LogMyGame: Warning: print
+[2018.06.17-02.38.35:991][242]LogMyGame: Warning: print
+[2018.06.17-02.38.36:023][243]LogMyGame: Warning: print
+[2018.06.17-02.38.36:055][244]LogMyGame: Warning: print
+[2018.06.17-02.38.36:086][245]LogMyGame: Warning: print
+[2018.06.17-02.38.36:116][246]LogMyGame: Warning: print
+[2018.06.17-02.38.36:145][247]LogMyGame: Warning: print
+[2018.06.17-02.38.36:177][248]LogMyGame: Warning: print
+[2018.06.17-02.38.36:208][249]LogMyGame: Warning: print
+[2018.06.17-02.38.36:237][250]LogMyGame: Warning: print
+[2018.06.17-02.38.36:263][251]LogMyGame: Warning: print
+[2018.06.17-02.38.36:294][252]LogMyGame: Warning: print
+[2018.06.17-02.38.36:320][253]LogMyGame: Warning: print
+[2018.06.17-02.38.36:343][254]LogMyGame: Warning: print
+[2018.06.17-02.38.36:368][255]LogMyGame: Warning: print
+[2018.06.17-02.38.36:394][256]LogMyGame: Warning: print
+[2018.06.17-02.38.36:418][257]LogMyGame: Warning: print
+[2018.06.17-02.38.36:445][258]LogMyGame: Warning: print
+[2018.06.17-02.38.36:470][259]LogMyGame: Warning: print
+[2018.06.17-02.38.36:494][260]LogMyGame: Warning: print
+[2018.06.17-02.38.36:521][261]LogMyGame: Warning: print
+[2018.06.17-02.38.36:550][262]LogMyGame: Warning: print
+[2018.06.17-02.38.36:581][263]LogMyGame: Warning: print
+[2018.06.17-02.38.36:613][264]LogMyGame: Warning: print
+[2018.06.17-02.38.36:652][265]LogMyGame: Warning: print
+[2018.06.17-02.38.36:702][266]LogMyGame: Warning: print
+[2018.06.17-02.38.36:766][267]LogMyGame: Warning: print
+[2018.06.17-02.38.36:816][268]LogMyGame: Warning: print
+[2018.06.17-02.38.36:865][269]LogMyGame: Warning: print
+[2018.06.17-02.38.36:917][270]LogMyGame: Warning: print
+[2018.06.17-02.38.36:969][271]LogMyGame: Warning: print
+[2018.06.17-02.38.37:021][272]LogMyGame: Warning: print
+[2018.06.17-02.38.37:068][273]LogMyGame: Warning: print
+[2018.06.17-02.38.37:117][274]LogMyGame: Warning: print
+[2018.06.17-02.38.37:167][275]LogMyGame: Warning: print
+[2018.06.17-02.38.37:218][276]LogMyGame: Warning: print
+[2018.06.17-02.38.37:263][277]LogMyGame: Warning: print
+[2018.06.17-02.38.37:311][278]LogMyGame: Warning: print
+[2018.06.17-02.38.37:357][279]LogMyGame: Warning: print
+[2018.06.17-02.38.37:402][280]LogMyGame: Warning: print
+[2018.06.17-02.38.37:444][281]LogMyGame: Warning: print
+[2018.06.17-02.38.37:483][282]LogMyGame: Warning: print
+[2018.06.17-02.38.37:523][283]LogMyGame: Warning: print
+[2018.06.17-02.38.37:561][284]LogMyGame: Warning: print
+[2018.06.17-02.38.37:600][285]LogMyGame: Warning: print
+[2018.06.17-02.38.37:643][286]LogMyGame: Warning: print
+[2018.06.17-02.38.37:686][287]LogMyGame: Warning: print
+[2018.06.17-02.38.37:728][288]LogMyGame: Warning: print
+[2018.06.17-02.38.37:758][289]LogMyGame: Warning: print
+[2018.06.17-02.38.37:783][290]LogMyGame: Warning: print
+[2018.06.17-02.38.37:808][291]LogMyGame: Warning: print
+[2018.06.17-02.38.37:831][292]LogMyGame: Warning: print
+[2018.06.17-02.38.37:852][293]LogMyGame: Warning: print
+[2018.06.17-02.38.37:875][294]LogMyGame: Warning: print
+[2018.06.17-02.38.37:897][295]LogMyGame: Warning: print
+[2018.06.17-02.38.37:917][296]LogMyGame: Warning: print
+[2018.06.17-02.38.37:940][297]LogMyGame: Warning: print
+[2018.06.17-02.38.37:963][298]LogMyGame: Warning: print
+[2018.06.17-02.38.37:987][299]LogMyGame: Warning: print
+[2018.06.17-02.38.38:012][300]LogMyGame: Warning: print
+[2018.06.17-02.38.38:033][301]LogMyGame: Warning: print
+[2018.06.17-02.38.38:057][302]LogMyGame: Warning: print
+[2018.06.17-02.38.38:080][303]LogMyGame: Warning: print
+[2018.06.17-02.38.38:103][304]LogMyGame: Warning: print
+[2018.06.17-02.38.38:127][305]LogMyGame: Warning: print
+[2018.06.17-02.38.38:150][306]LogMyGame: Warning: print
+[2018.06.17-02.38.38:174][307]LogMyGame: Warning: print
+[2018.06.17-02.38.38:197][308]LogMyGame: Warning: print
+[2018.06.17-02.38.38:218][309]LogMyGame: Warning: print
+[2018.06.17-02.38.38:242][310]LogMyGame: Warning: print
+[2018.06.17-02.38.38:264][311]LogMyGame: Warning: print
+[2018.06.17-02.38.38:286][312]LogMyGame: Warning: print
+[2018.06.17-02.38.38:313][313]LogMyGame: Warning: print
+[2018.06.17-02.38.38:357][314]LogMyGame: Warning: print
+[2018.06.17-02.38.38:410][315]LogMyGame: Warning: print
+[2018.06.17-02.38.38:462][316]LogMyGame: Warning: print
+[2018.06.17-02.38.38:516][317]LogMyGame: Warning: print
+[2018.06.17-02.38.38:568][318]LogMyGame: Warning: print
+[2018.06.17-02.38.38:616][319]LogMyGame: Warning: print
+[2018.06.17-02.38.38:663][320]LogMyGame: Warning: print
+[2018.06.17-02.38.38:713][321]LogMyGame: Warning: print
+[2018.06.17-02.38.38:762][322]LogMyGame: Warning: print
+[2018.06.17-02.38.38:819][323]LogMyGame: Warning: print
+[2018.06.17-02.38.38:879][324]LogMyGame: Warning: print
+[2018.06.17-02.38.38:941][325]LogMyGame: Warning: print
+[2018.06.17-02.38.38:980][326]LogMyGame: Warning: print
+[2018.06.17-02.38.39:020][327]LogMyGame: Warning: print
+[2018.06.17-02.38.39:060][328]LogMyGame: Warning: print
+[2018.06.17-02.38.39:100][329]LogMyGame: Warning: print
+[2018.06.17-02.38.39:139][330]LogMyGame: Warning: print
+[2018.06.17-02.38.39:179][331]LogMyGame: Warning: print
+[2018.06.17-02.38.39:220][332]LogMyGame: Warning: print
+[2018.06.17-02.38.39:261][333]LogMyGame: Warning: print
+[2018.06.17-02.38.39:303][334]LogMyGame: Warning: print
+[2018.06.17-02.38.39:342][335]LogMyGame: Warning: print
+[2018.06.17-02.38.39:380][336]LogMyGame: Warning: print
+[2018.06.17-02.38.39:419][337]LogMyGame: Warning: print
+[2018.06.17-02.38.39:461][338]LogMyGame: Warning: print
+[2018.06.17-02.38.39:501][339]LogMyGame: Warning: print
+[2018.06.17-02.38.39:539][340]LogMyGame: Warning: print
+[2018.06.17-02.38.39:579][341]LogMyGame: Warning: print
+[2018.06.17-02.38.39:621][342]LogMyGame: Warning: print
+[2018.06.17-02.38.39:667][343]LogMyGame: Warning: print
+[2018.06.17-02.38.39:710][344]LogMyGame: Warning: print
+[2018.06.17-02.38.39:755][345]LogMyGame: Warning: print
+[2018.06.17-02.38.39:797][346]LogMyGame: Warning: print
+[2018.06.17-02.38.39:840][347]LogMyGame: Warning: print
+[2018.06.17-02.38.39:886][348]LogMyGame: Warning: print
+[2018.06.17-02.38.39:927][349]LogMyGame: Warning: print
+[2018.06.17-02.38.39:964][350]LogMyGame: Warning: print
+[2018.06.17-02.38.40:000][351]LogMyGame: Warning: print
+[2018.06.17-02.38.40:035][352]LogMyGame: Warning: print
+[2018.06.17-02.38.40:065][353]LogMyGame: Warning: print
+[2018.06.17-02.38.40:094][354]LogMyGame: Warning: print
+[2018.06.17-02.38.40:126][355]LogMyGame: Warning: print
+[2018.06.17-02.38.40:153][356]LogMyGame: Warning: print
+[2018.06.17-02.38.40:180][357]LogMyGame: Warning: print
+[2018.06.17-02.38.40:206][358]LogMyGame: Warning: print
+[2018.06.17-02.38.40:237][359]LogMyGame: Warning: print
+[2018.06.17-02.38.40:263][360]LogMyGame: Warning: print
+[2018.06.17-02.38.40:289][361]LogMyGame: Warning: print
+[2018.06.17-02.38.40:315][362]LogMyGame: Warning: print
+[2018.06.17-02.38.40:341][363]LogMyGame: Warning: print
+[2018.06.17-02.38.40:368][364]LogMyGame: Warning: print
+[2018.06.17-02.38.40:395][365]LogMyGame: Warning: print
+[2018.06.17-02.38.40:424][366]LogMyGame: Warning: print
+[2018.06.17-02.38.40:448][367]LogMyGame: Warning: print
+[2018.06.17-02.38.40:473][368]LogMyGame: Warning: print
+[2018.06.17-02.38.40:499][369]LogMyGame: Warning: print
+[2018.06.17-02.38.40:522][370]LogMyGame: Warning: print
+[2018.06.17-02.38.40:547][371]LogMyGame: Warning: print
+[2018.06.17-02.38.40:572][372]LogMyGame: Warning: print
+[2018.06.17-02.38.40:597][373]LogMyGame: Warning: print
+[2018.06.17-02.38.40:622][374]LogMyGame: Warning: print
+[2018.06.17-02.38.40:646][375]LogMyGame: Warning: print
+[2018.06.17-02.38.40:672][376]LogMyGame: Warning: print
+[2018.06.17-02.38.40:699][377]LogMyGame: Warning: print
+[2018.06.17-02.38.40:724][378]LogMyGame: Warning: print
+[2018.06.17-02.38.40:749][379]LogMyGame: Warning: print
+[2018.06.17-02.38.40:776][380]LogMyGame: Warning: print
+[2018.06.17-02.38.40:799][381]LogMyGame: Warning: print
+[2018.06.17-02.38.40:824][382]LogMyGame: Warning: print
+[2018.06.17-02.38.40:847][383]LogMyGame: Warning: print
+[2018.06.17-02.38.40:873][384]LogMyGame: Warning: print
+[2018.06.17-02.38.40:895][385]LogMyGame: Warning: print
+[2018.06.17-02.38.40:919][386]LogMyGame: Warning: print
+[2018.06.17-02.38.40:942][387]LogMyGame: Warning: print
+[2018.06.17-02.38.40:966][388]LogMyGame: Warning: print
+[2018.06.17-02.38.40:992][389]LogMyGame: Warning: print
+[2018.06.17-02.38.41:015][390]LogMyGame: Warning: print
+[2018.06.17-02.38.41:041][391]LogMyGame: Warning: print
+[2018.06.17-02.38.41:063][392]LogMyGame: Warning: print
+[2018.06.17-02.38.41:088][393]LogMyGame: Warning: print
+[2018.06.17-02.38.41:113][394]LogMyGame: Warning: print
+[2018.06.17-02.38.41:138][395]LogMyGame: Warning: print
+[2018.06.17-02.38.41:162][396]LogMyGame: Warning: print
+[2018.06.17-02.38.41:186][397]LogMyGame: Warning: print
+[2018.06.17-02.38.41:212][398]LogMyGame: Warning: print
+[2018.06.17-02.38.41:234][399]LogMyGame: Warning: print
+[2018.06.17-02.38.41:259][400]LogMyGame: Warning: print
+[2018.06.17-02.38.41:285][401]LogMyGame: Warning: print
+[2018.06.17-02.38.41:310][402]LogMyGame: Warning: print
+[2018.06.17-02.38.41:332][403]LogMyGame: Warning: print
+[2018.06.17-02.38.41:358][404]LogMyGame: Warning: print
+[2018.06.17-02.38.41:380][405]LogMyGame: Warning: print
+[2018.06.17-02.38.41:405][406]LogMyGame: Warning: print
+[2018.06.17-02.38.41:430][407]LogMyGame: Warning: print
+[2018.06.17-02.38.41:453][408]LogMyGame: Warning: print
+[2018.06.17-02.38.41:478][409]LogMyGame: Warning: print
+[2018.06.17-02.38.41:500][410]LogMyGame: Warning: print
+[2018.06.17-02.38.41:524][411]LogMyGame: Warning: print
+[2018.06.17-02.38.41:547][412]LogMyGame: Warning: print
+[2018.06.17-02.38.41:571][413]LogMyGame: Warning: print
+[2018.06.17-02.38.41:594][414]LogMyGame: Warning: print
+[2018.06.17-02.38.41:615][415]LogMyGame: Warning: print
+[2018.06.17-02.38.41:639][416]LogMyGame: Warning: print
+[2018.06.17-02.38.41:662][417]LogMyGame: Warning: print
+[2018.06.17-02.38.41:688][418]LogMyGame: Warning: print
+[2018.06.17-02.38.41:712][419]LogMyGame: Warning: print
+[2018.06.17-02.38.41:734][420]LogMyGame: Warning: print
+[2018.06.17-02.38.41:759][421]LogMyGame: Warning: print
+[2018.06.17-02.38.41:781][422]LogMyGame: Warning: print
+[2018.06.17-02.38.41:806][423]LogMyGame: Warning: print
+[2018.06.17-02.38.41:830][424]LogMyGame: Warning: print
+[2018.06.17-02.38.41:853][425]LogMyGame: Warning: print
+[2018.06.17-02.38.41:877][426]LogMyGame: Warning: print
+[2018.06.17-02.38.41:900][427]LogMyGame: Warning: print
+[2018.06.17-02.38.41:925][428]LogMyGame: Warning: print
+[2018.06.17-02.38.41:948][429]LogMyGame: Warning: print
+[2018.06.17-02.38.41:972][430]LogMyGame: Warning: print
+[2018.06.17-02.38.41:996][431]LogMyGame: Warning: print
+[2018.06.17-02.38.42:022][432]LogMyGame: Warning: print
+[2018.06.17-02.38.42:045][433]LogMyGame: Warning: print
+[2018.06.17-02.38.42:070][434]LogMyGame: Warning: print
+[2018.06.17-02.38.42:094][435]LogMyGame: Warning: print
+[2018.06.17-02.38.42:119][436]LogMyGame: Warning: print
+[2018.06.17-02.38.42:143][437]LogMyGame: Warning: print
+[2018.06.17-02.38.42:174][438]LogMyGame: Warning: print
+[2018.06.17-02.38.42:206][439]LogMyGame: Warning: print
+[2018.06.17-02.38.42:244][440]LogMyGame: Warning: print
+[2018.06.17-02.38.42:285][441]LogMyGame: Warning: print
+[2018.06.17-02.38.42:329][442]LogMyGame: Warning: print
+[2018.06.17-02.38.42:369][443]LogMyGame: Warning: print
+[2018.06.17-02.38.42:412][444]LogMyGame: Warning: print
+[2018.06.17-02.38.42:451][445]LogMyGame: Warning: print
+[2018.06.17-02.38.42:493][446]LogMyGame: Warning: print
+[2018.06.17-02.38.42:533][447]LogMyGame: Warning: print
+[2018.06.17-02.38.42:577][448]LogMyGame: Warning: print
+[2018.06.17-02.38.42:611][449]LogMyGame: Warning: print
+[2018.06.17-02.38.42:642][450]LogMyGame: Warning: print
+[2018.06.17-02.38.42:666][451]LogMyGame: Warning: print
+[2018.06.17-02.38.42:693][452]LogMyGame: Warning: print
+[2018.06.17-02.38.42:718][453]LogMyGame: Warning: print
+[2018.06.17-02.38.42:743][454]LogMyGame: Warning: print
+[2018.06.17-02.38.42:764][455]LogMyGame: Warning: print
+[2018.06.17-02.38.42:789][456]LogMyGame: Warning: print
+[2018.06.17-02.38.42:812][457]LogMyGame: Warning: print
+[2018.06.17-02.38.42:834][458]LogMyGame: Warning: print
+[2018.06.17-02.38.42:858][459]LogMyGame: Warning: print
+[2018.06.17-02.38.42:881][460]LogMyGame: Warning: print
+[2018.06.17-02.38.42:906][461]LogMyGame: Warning: print
+[2018.06.17-02.38.42:929][462]LogMyGame: Warning: print
+[2018.06.17-02.38.42:951][463]LogMyGame: Warning: print
+[2018.06.17-02.38.42:976][464]LogMyGame: Warning: print
+[2018.06.17-02.38.43:002][465]LogMyGame: Warning: print
+[2018.06.17-02.38.43:027][466]LogMyGame: Warning: print
+[2018.06.17-02.38.43:049][467]LogMyGame: Warning: print
+[2018.06.17-02.38.43:073][468]LogMyGame: Warning: print
+[2018.06.17-02.38.43:095][469]LogMyGame: Warning: print
+[2018.06.17-02.38.43:118][470]LogMyGame: Warning: print
+[2018.06.17-02.38.43:140][471]LogMyGame: Warning: print
+[2018.06.17-02.38.43:164][472]LogMyGame: Warning: print
+[2018.06.17-02.38.43:189][473]LogMyGame: Warning: print
+[2018.06.17-02.38.43:212][474]LogMyGame: Warning: print
+[2018.06.17-02.38.43:234][475]LogMyGame: Warning: print
+[2018.06.17-02.38.43:258][476]LogMyGame: Warning: print
+[2018.06.17-02.38.43:280][477]LogMyGame: Warning: print
+[2018.06.17-02.38.43:308][478]LogMyGame: Warning: print
+[2018.06.17-02.38.43:331][479]LogMyGame: Warning: print
+[2018.06.17-02.38.43:355][480]LogMyGame: Warning: print
+[2018.06.17-02.38.43:377][481]LogMyGame: Warning: print
+[2018.06.17-02.38.43:399][482]LogMyGame: Warning: print
+[2018.06.17-02.38.43:424][483]LogMyGame: Warning: print
+[2018.06.17-02.38.43:446][484]LogMyGame: Warning: print
+[2018.06.17-02.38.43:469][485]LogMyGame: Warning: print
+[2018.06.17-02.38.43:491][486]LogMyGame: Warning: print
+[2018.06.17-02.38.43:514][487]LogMyGame: Warning: print
+[2018.06.17-02.38.43:539][488]LogMyGame: Warning: print
+[2018.06.17-02.38.43:564][489]LogMyGame: Warning: print
+[2018.06.17-02.38.43:587][490]LogMyGame: Warning: print
+[2018.06.17-02.38.43:611][491]LogMyGame: Warning: print
+[2018.06.17-02.38.43:633][492]LogMyGame: Warning: print
+[2018.06.17-02.38.43:656][493]LogMyGame: Warning: print
+[2018.06.17-02.38.43:680][494]LogMyGame: Warning: print
+[2018.06.17-02.38.43:704][495]LogMyGame: Warning: print
+[2018.06.17-02.38.43:727][496]LogMyGame: Warning: print
+[2018.06.17-02.38.43:750][497]LogMyGame: Warning: print
+[2018.06.17-02.38.43:773][498]LogMyGame: Warning: print
+[2018.06.17-02.38.43:796][499]LogMyGame: Warning: print
+[2018.06.17-02.38.43:819][500]LogMyGame: Warning: print
+[2018.06.17-02.38.43:842][501]LogMyGame: Warning: print
+[2018.06.17-02.38.43:865][502]LogMyGame: Warning: print
+[2018.06.17-02.38.43:887][503]LogMyGame: Warning: print
+[2018.06.17-02.38.43:911][504]LogMyGame: Warning: print
+[2018.06.17-02.38.43:933][505]LogMyGame: Warning: print
+[2018.06.17-02.38.43:958][506]LogMyGame: Warning: print
+[2018.06.17-02.38.43:982][507]LogMyGame: Warning: print
+[2018.06.17-02.38.44:008][508]LogMyGame: Warning: print
+[2018.06.17-02.38.44:032][509]LogMyGame: Warning: print
+[2018.06.17-02.38.44:056][510]LogMyGame: Warning: print
+[2018.06.17-02.38.44:078][511]LogMyGame: Warning: print
+[2018.06.17-02.38.44:103][512]LogMyGame: Warning: print
+[2018.06.17-02.38.44:127][513]LogMyGame: Warning: print
+[2018.06.17-02.38.44:150][514]LogMyGame: Warning: print
+[2018.06.17-02.38.44:174][515]LogMyGame: Warning: print
+[2018.06.17-02.38.44:197][516]LogMyGame: Warning: print
+[2018.06.17-02.38.44:223][517]LogMyGame: Warning: print
+[2018.06.17-02.38.44:246][518]LogMyGame: Warning: print
+[2018.06.17-02.38.44:269][519]LogMyGame: Warning: print
+[2018.06.17-02.38.44:294][520]LogMyGame: Warning: print
+[2018.06.17-02.38.44:317][521]LogMyGame: Warning: print
+[2018.06.17-02.38.44:342][522]LogMyGame: Warning: print
+[2018.06.17-02.38.44:381][523]LogMyGame: Warning: print
+[2018.06.17-02.38.44:426][524]LogMyGame: Warning: print
+[2018.06.17-02.38.44:472][525]LogMyGame: Warning: print
+[2018.06.17-02.38.44:519][526]LogMyGame: Warning: print
+[2018.06.17-02.38.44:569][527]LogMyGame: Warning: print
+[2018.06.17-02.38.44:617][528]LogMyGame: Warning: print
+[2018.06.17-02.38.44:667][529]LogMyGame: Warning: print
+[2018.06.17-02.38.44:716][530]LogMyGame: Warning: print
+[2018.06.17-02.38.44:761][531]LogMyGame: Warning: print
+[2018.06.17-02.38.44:804][532]LogMyGame: Warning: print
+[2018.06.17-02.38.44:848][533]LogMyGame: Warning: print
+[2018.06.17-02.38.44:889][534]LogMyGame: Warning: print
+[2018.06.17-02.38.44:929][535]LogMyGame: Warning: print
+[2018.06.17-02.38.44:967][536]LogMyGame: Warning: print
+[2018.06.17-02.38.45:003][537]LogMyGame: Warning: print
+[2018.06.17-02.38.45:040][538]LogMyGame: Warning: print
+[2018.06.17-02.38.45:078][539]LogMyGame: Warning: print
+[2018.06.17-02.38.45:115][540]LogMyGame: Warning: print
+[2018.06.17-02.38.45:149][541]LogMyGame: Warning: print
+[2018.06.17-02.38.45:184][542]LogMyGame: Warning: print
+[2018.06.17-02.38.45:219][543]LogMyGame: Warning: print
+[2018.06.17-02.38.45:253][544]LogMyGame: Warning: print
+[2018.06.17-02.38.45:291][545]LogMyGame: Warning: print
+[2018.06.17-02.38.45:323][546]LogMyGame: Warning: print
+[2018.06.17-02.38.45:359][547]LogMyGame: Warning: print
+[2018.06.17-02.38.45:393][548]LogMyGame: Warning: print
+[2018.06.17-02.38.45:427][549]LogMyGame: Warning: print
+[2018.06.17-02.38.45:463][550]LogMyGame: Warning: print
+[2018.06.17-02.38.45:496][551]LogMyGame: Warning: print
+[2018.06.17-02.38.45:531][552]LogMyGame: Warning: print
+[2018.06.17-02.38.45:563][553]LogMyGame: Warning: print
+[2018.06.17-02.38.45:597][554]LogMyGame: Warning: print
+[2018.06.17-02.38.45:630][555]LogMyGame: Warning: print
+[2018.06.17-02.38.45:662][556]LogMyGame: Warning: print
+[2018.06.17-02.38.45:695][557]LogMyGame: Warning: print
+[2018.06.17-02.38.45:728][558]LogMyGame: Warning: print
+[2018.06.17-02.38.45:760][559]LogMyGame: Warning: print
+[2018.06.17-02.38.45:793][560]LogMyGame: Warning: print
+[2018.06.17-02.38.45:825][561]LogMyGame: Warning: print
+[2018.06.17-02.38.45:860][562]LogMyGame: Warning: print
+[2018.06.17-02.38.45:892][563]LogMyGame: Warning: print
+[2018.06.17-02.38.45:923][564]LogMyGame: Warning: print
+[2018.06.17-02.38.45:956][565]LogMyGame: Warning: print
+[2018.06.17-02.38.45:993][566]LogMyGame: Warning: print
+[2018.06.17-02.38.46:030][567]LogMyGame: Warning: print
+[2018.06.17-02.38.46:063][568]LogMyGame: Warning: print
+[2018.06.17-02.38.46:097][569]LogMyGame: Warning: print
+[2018.06.17-02.38.46:133][570]LogMyGame: Warning: print
+[2018.06.17-02.38.46:169][571]LogMyGame: Warning: print
+[2018.06.17-02.38.46:205][572]LogMyGame: Warning: print
+[2018.06.17-02.38.46:240][573]LogMyGame: Warning: print
+[2018.06.17-02.38.46:277][574]LogMyGame: Warning: print
+[2018.06.17-02.38.46:317][575]LogMyGame: Warning: print
+[2018.06.17-02.38.46:353][576]LogMyGame: Warning: print
+[2018.06.17-02.38.46:390][577]LogMyGame: Warning: print
+[2018.06.17-02.38.46:426][578]LogMyGame: Warning: print
+[2018.06.17-02.38.46:462][579]LogMyGame: Warning: print
+[2018.06.17-02.38.46:497][580]LogMyGame: Warning: print
+[2018.06.17-02.38.46:533][581]LogMyGame: Warning: print
+[2018.06.17-02.38.46:568][582]LogMyGame: Warning: print
+[2018.06.17-02.38.46:605][583]LogMyGame: Warning: print
+[2018.06.17-02.38.46:640][584]LogMyGame: Warning: print
+[2018.06.17-02.38.46:674][585]LogMyGame: Warning: print
+[2018.06.17-02.38.46:709][586]LogMyGame: Warning: print
+[2018.06.17-02.38.46:747][587]LogMyGame: Warning: print
+[2018.06.17-02.38.46:789][588]LogMyGame: Warning: print
+[2018.06.17-02.38.46:822][589]LogMyGame: Warning: print
+[2018.06.17-02.38.46:856][590]LogMyGame: Warning: print
+[2018.06.17-02.38.46:890][591]LogMyGame: Warning: print
+[2018.06.17-02.38.46:924][592]LogMyGame: Warning: print
+[2018.06.17-02.38.46:959][593]LogMyGame: Warning: print
+[2018.06.17-02.38.46:998][594]LogMyGame: Warning: print
+[2018.06.17-02.38.47:034][595]LogMyGame: Warning: print
+[2018.06.17-02.38.47:068][596]LogMyGame: Warning: print
+[2018.06.17-02.38.47:102][597]LogMyGame: Warning: print
+[2018.06.17-02.38.47:138][598]LogMyGame: Warning: print
+[2018.06.17-02.38.47:171][599]LogMyGame: Warning: print
+[2018.06.17-02.38.47:204][600]LogMyGame: Warning: print
+[2018.06.17-02.38.47:237][601]LogMyGame: Warning: print
+[2018.06.17-02.38.47:270][602]LogMyGame: Warning: print
+[2018.06.17-02.38.47:305][603]LogMyGame: Warning: print
+[2018.06.17-02.38.47:337][604]LogMyGame: Warning: print
+[2018.06.17-02.38.47:374][605]LogMyGame: Warning: print
+[2018.06.17-02.38.47:408][606]LogMyGame: Warning: print
+[2018.06.17-02.38.47:442][607]LogMyGame: Warning: print
+[2018.06.17-02.38.47:476][608]LogMyGame: Warning: print
+[2018.06.17-02.38.47:512][609]LogMyGame: Warning: print
+[2018.06.17-02.38.47:545][610]LogMyGame: Warning: print
+[2018.06.17-02.38.47:578][611]LogMyGame: Warning: print
+[2018.06.17-02.38.47:611][612]LogMyGame: Warning: print
+[2018.06.17-02.38.47:645][613]LogMyGame: Warning: print
+[2018.06.17-02.38.47:679][614]LogMyGame: Warning: print
+[2018.06.17-02.38.47:713][615]LogMyGame: Warning: print
+[2018.06.17-02.38.47:746][616]LogMyGame: Warning: print
+[2018.06.17-02.38.47:778][617]LogMyGame: Warning: print
+[2018.06.17-02.38.47:810][618]LogMyGame: Warning: print
+[2018.06.17-02.38.47:839][619]LogMyGame: Warning: print
+[2018.06.17-02.38.47:865][620]LogMyGame: Warning: print
+[2018.06.17-02.38.47:890][621]LogMyGame: Warning: print
+[2018.06.17-02.38.47:913][622]LogMyGame: Warning: print
+[2018.06.17-02.38.47:935][623]LogMyGame: Warning: print
+[2018.06.17-02.38.47:959][624]LogMyGame: Warning: print
+[2018.06.17-02.38.47:981][625]LogMyGame: Warning: print
+[2018.06.17-02.38.48:003][626]LogMyGame: Warning: print
+[2018.06.17-02.38.48:026][627]LogMyGame: Warning: print
+[2018.06.17-02.38.48:049][628]LogMyGame: Warning: print
+[2018.06.17-02.38.48:073][629]LogMyGame: Warning: print
+[2018.06.17-02.38.48:097][630]LogMyGame: Warning: print
+[2018.06.17-02.38.48:120][631]LogMyGame: Warning: print
+[2018.06.17-02.38.48:144][632]LogMyGame: Warning: print
+[2018.06.17-02.38.48:166][633]LogMyGame: Warning: print
+[2018.06.17-02.38.48:191][634]LogMyGame: Warning: print
+[2018.06.17-02.38.48:214][635]LogMyGame: Warning: print
+[2018.06.17-02.38.48:236][636]LogMyGame: Warning: print
+[2018.06.17-02.38.48:260][637]LogMyGame: Warning: print
+[2018.06.17-02.38.48:282][638]LogMyGame: Warning: print
+[2018.06.17-02.38.48:307][639]LogMyGame: Warning: print
+[2018.06.17-02.38.48:329][640]LogMyGame: Warning: print
+[2018.06.17-02.38.48:349][641]LogMyGame: Warning: print
+[2018.06.17-02.38.48:373][642]LogMyGame: Warning: print
+[2018.06.17-02.38.48:396][643]LogMyGame: Warning: print
+[2018.06.17-02.38.48:420][644]LogMyGame: Warning: print
+[2018.06.17-02.38.48:443][645]LogMyGame: Warning: print
+[2018.06.17-02.38.48:464][646]LogMyGame: Warning: print
+[2018.06.17-02.38.48:491][647]LogMyGame: Warning: print
+[2018.06.17-02.38.48:515][648]LogMyGame: Warning: print
+[2018.06.17-02.38.48:537][649]LogMyGame: Warning: print
+[2018.06.17-02.38.48:560][650]LogMyGame: Warning: print
+[2018.06.17-02.38.48:586][651]LogMyGame: Warning: print
+[2018.06.17-02.38.48:611][652]LogMyGame: Warning: print
+[2018.06.17-02.38.48:636][653]LogMyGame: Warning: print
+[2018.06.17-02.38.48:660][654]LogMyGame: Warning: print
+[2018.06.17-02.38.48:682][655]LogMyGame: Warning: print
+[2018.06.17-02.38.48:707][656]LogMyGame: Warning: print
+[2018.06.17-02.38.48:730][657]LogMyGame: Warning: print
+[2018.06.17-02.38.48:753][658]LogMyGame: Warning: print
+[2018.06.17-02.38.48:776][659]LogMyGame: Warning: print
+[2018.06.17-02.38.48:799][660]LogMyGame: Warning: print
+[2018.06.17-02.38.48:823][661]LogMyGame: Warning: print
+[2018.06.17-02.38.48:847][662]LogMyGame: Warning: print
+[2018.06.17-02.38.48:869][663]LogMyGame: Warning: print
+[2018.06.17-02.38.48:893][664]LogMyGame: Warning: print
+[2018.06.17-02.38.48:915][665]LogMyGame: Warning: print
+[2018.06.17-02.38.48:938][666]LogMyGame: Warning: print
+[2018.06.17-02.38.48:961][667]LogMyGame: Warning: print
+[2018.06.17-02.38.48:986][668]LogMyGame: Warning: print
+[2018.06.17-02.38.49:010][669]LogMyGame: Warning: print
+[2018.06.17-02.38.49:033][670]LogMyGame: Warning: print
+[2018.06.17-02.38.49:058][671]LogMyGame: Warning: print
+[2018.06.17-02.38.49:082][672]LogMyGame: Warning: print
+[2018.06.17-02.38.49:106][673]LogMyGame: Warning: print
+[2018.06.17-02.38.49:130][674]LogMyGame: Warning: print
+[2018.06.17-02.38.49:153][675]LogMyGame: Warning: print
+[2018.06.17-02.38.49:176][676]LogMyGame: Warning: print
+[2018.06.17-02.38.49:198][677]LogMyGame: Warning: print
+[2018.06.17-02.38.49:222][678]LogMyGame: Warning: print
+[2018.06.17-02.38.49:246][679]LogMyGame: Warning: print
+[2018.06.17-02.38.49:268][680]LogMyGame: Warning: print
+[2018.06.17-02.38.49:292][681]LogMyGame: Warning: print
+[2018.06.17-02.38.49:316][682]LogMyGame: Warning: print
+[2018.06.17-02.38.49:343][683]LogMyGame: Warning: print
+[2018.06.17-02.38.49:369][684]LogMyGame: Warning: print
+[2018.06.17-02.38.49:393][685]LogMyGame: Warning: print
+[2018.06.17-02.38.49:418][686]LogMyGame: Warning: print
+[2018.06.17-02.38.49:444][687]LogMyGame: Warning: print
+[2018.06.17-02.38.49:475][688]LogMyGame: Warning: print
+[2018.06.17-02.38.49:500][689]LogMyGame: Warning: print
+[2018.06.17-02.38.49:524][690]LogMyGame: Warning: print
+[2018.06.17-02.38.49:547][691]LogMyGame: Warning: print
+[2018.06.17-02.38.49:572][692]LogMyGame: Warning: print
+[2018.06.17-02.38.49:595][693]LogMyGame: Warning: print
+[2018.06.17-02.38.49:616][694]LogMyGame: Warning: print
+[2018.06.17-02.38.49:641][695]LogMyGame: Warning: print
+[2018.06.17-02.38.49:666][696]LogMyGame: Warning: print
+[2018.06.17-02.38.49:688][697]LogMyGame: Warning: print
+[2018.06.17-02.38.49:711][698]LogMyGame: Warning: print
+[2018.06.17-02.38.49:733][699]LogMyGame: Warning: print
+[2018.06.17-02.38.49:758][700]LogMyGame: Warning: print
+[2018.06.17-02.38.49:784][701]LogMyGame: Warning: print
+[2018.06.17-02.38.49:808][702]LogMyGame: Warning: print
+[2018.06.17-02.38.49:831][703]LogMyGame: Warning: print
+[2018.06.17-02.38.49:855][704]LogMyGame: Warning: print
+[2018.06.17-02.38.49:878][705]LogMyGame: Warning: print
+[2018.06.17-02.38.49:904][706]LogMyGame: Warning: print
+[2018.06.17-02.38.49:928][707]LogMyGame: Warning: print
+[2018.06.17-02.38.49:950][708]LogMyGame: Warning: print
+[2018.06.17-02.38.49:975][709]LogMyGame: Warning: print
+[2018.06.17-02.38.49:999][710]LogMyGame: Warning: print
+[2018.06.17-02.38.50:024][711]LogMyGame: Warning: print
+[2018.06.17-02.38.50:048][712]LogMyGame: Warning: print
+[2018.06.17-02.38.50:072][713]LogMyGame: Warning: print
+[2018.06.17-02.38.50:100][714]LogMyGame: Warning: print
+[2018.06.17-02.38.50:124][715]LogMyGame: Warning: print
+[2018.06.17-02.38.50:145][716]LogMyGame: Warning: print
+[2018.06.17-02.38.50:171][717]LogMyGame: Warning: print
+[2018.06.17-02.38.50:194][718]LogMyGame: Warning: print
+[2018.06.17-02.38.50:220][719]LogMyGame: Warning: print
+[2018.06.17-02.38.50:251][720]LogMyGame: Warning: print
+[2018.06.17-02.38.50:287][721]LogMyGame: Warning: print
+[2018.06.17-02.38.50:320][722]LogMyGame: Warning: print
+[2018.06.17-02.38.50:355][723]LogMyGame: Warning: print
+[2018.06.17-02.38.50:388][724]LogMyGame: Warning: print
+[2018.06.17-02.38.50:423][725]LogMyGame: Warning: print
+[2018.06.17-02.38.50:458][726]LogMyGame: Warning: print
+[2018.06.17-02.38.50:494][727]LogMyGame: Warning: print
+[2018.06.17-02.38.50:526][728]LogMyGame: Warning: print
+[2018.06.17-02.38.50:562][729]LogMyGame: Warning: print
+[2018.06.17-02.38.50:604][730]LogMyGame: Warning: print
+[2018.06.17-02.38.50:642][731]LogMyGame: Warning: print
+[2018.06.17-02.38.50:677][732]LogMyGame: Warning: print
+[2018.06.17-02.38.50:713][733]LogMyGame: Warning: print
+[2018.06.17-02.38.50:752][734]LogMyGame: Warning: print
+[2018.06.17-02.38.50:786][735]LogMyGame: Warning: print
+[2018.06.17-02.38.50:818][736]LogMyGame: Warning: print
+[2018.06.17-02.38.50:853][737]LogMyGame: Warning: print
+[2018.06.17-02.38.50:883][738]LogMyGame: Warning: print
+[2018.06.17-02.38.50:916][739]LogMyGame: Warning: print
+[2018.06.17-02.38.50:950][740]LogMyGame: Warning: print
+[2018.06.17-02.38.50:981][741]LogMyGame: Warning: print
+[2018.06.17-02.38.51:012][742]LogMyGame: Warning: print
+[2018.06.17-02.38.51:044][743]LogMyGame: Warning: print
+[2018.06.17-02.38.51:075][744]LogMyGame: Warning: print
+[2018.06.17-02.38.51:108][745]LogMyGame: Warning: print
+[2018.06.17-02.38.51:144][746]LogMyGame: Warning: print
+[2018.06.17-02.38.51:179][747]LogMyGame: Warning: print
+[2018.06.17-02.38.51:210][748]LogMyGame: Warning: print
+[2018.06.17-02.38.51:238][749]LogMyGame: Warning: print
+[2018.06.17-02.38.51:262][750]LogMyGame: Warning: print
+[2018.06.17-02.38.51:288][751]LogMyGame: Warning: print
+[2018.06.17-02.38.51:312][752]LogMyGame: Warning: print
+[2018.06.17-02.38.51:337][753]LogMyGame: Warning: print
+[2018.06.17-02.38.51:360][754]LogMyGame: Warning: print
+[2018.06.17-02.38.51:383][755]LogMyGame: Warning: print
+[2018.06.17-02.38.51:407][756]LogMyGame: Warning: print
+[2018.06.17-02.38.51:429][757]LogMyGame: Warning: print
+[2018.06.17-02.38.51:454][758]LogMyGame: Warning: print
+[2018.06.17-02.38.51:477][759]LogMyGame: Warning: print
+[2018.06.17-02.38.51:499][760]LogMyGame: Warning: print
+[2018.06.17-02.38.51:522][761]LogMyGame: Warning: print
+[2018.06.17-02.38.51:545][762]LogMyGame: Warning: print
+[2018.06.17-02.38.51:568][763]LogMyGame: Warning: print
+[2018.06.17-02.38.51:591][764]LogMyGame: Warning: print
+[2018.06.17-02.38.51:614][765]LogMyGame: Warning: print
+[2018.06.17-02.38.51:637][766]LogMyGame: Warning: print
+[2018.06.17-02.38.51:660][767]LogMyGame: Warning: print
+[2018.06.17-02.38.51:682][768]LogMyGame: Warning: print
+[2018.06.17-02.38.51:705][769]LogMyGame: Warning: print
+[2018.06.17-02.38.51:728][770]LogMyGame: Warning: print
+[2018.06.17-02.38.51:753][771]LogMyGame: Warning: print
+[2018.06.17-02.38.51:777][772]LogMyGame: Warning: print
+[2018.06.17-02.38.51:799][773]LogMyGame: Warning: print
+[2018.06.17-02.38.51:823][774]LogMyGame: Warning: print
+[2018.06.17-02.38.51:846][775]LogMyGame: Warning: print
+[2018.06.17-02.38.51:870][776]LogMyGame: Warning: print
+[2018.06.17-02.38.51:893][777]LogMyGame: Warning: print
+[2018.06.17-02.38.51:916][778]LogMyGame: Warning: print
+[2018.06.17-02.38.51:939][779]LogMyGame: Warning: print
+[2018.06.17-02.38.51:962][780]LogMyGame: Warning: print
+[2018.06.17-02.38.51:987][781]LogMyGame: Warning: print
+[2018.06.17-02.38.52:010][782]LogMyGame: Warning: print
+[2018.06.17-02.38.52:032][783]LogMyGame: Warning: print
+[2018.06.17-02.38.52:054][784]LogMyGame: Warning: print
+[2018.06.17-02.38.52:078][785]LogMyGame: Warning: print
+[2018.06.17-02.38.52:104][786]LogMyGame: Warning: print
+[2018.06.17-02.38.52:127][787]LogMyGame: Warning: print
+[2018.06.17-02.38.52:151][788]LogMyGame: Warning: print
+[2018.06.17-02.38.52:174][789]LogMyGame: Warning: print
+[2018.06.17-02.38.52:196][790]LogMyGame: Warning: print
+[2018.06.17-02.38.52:219][791]LogMyGame: Warning: print
+[2018.06.17-02.38.52:243][792]LogMyGame: Warning: print
+[2018.06.17-02.38.52:265][793]LogMyGame: Warning: print
+[2018.06.17-02.38.52:288][794]LogMyGame: Warning: print
+[2018.06.17-02.38.52:311][795]LogMyGame: Warning: print
+[2018.06.17-02.38.52:333][796]LogMyGame: Warning: print
+[2018.06.17-02.38.52:356][797]LogMyGame: Warning: print
+[2018.06.17-02.38.52:379][798]LogMyGame: Warning: print
+[2018.06.17-02.38.52:405][799]LogMyGame: Warning: print
+[2018.06.17-02.38.52:427][800]LogMyGame: Warning: print
+[2018.06.17-02.38.52:450][801]LogMyGame: Warning: print
+[2018.06.17-02.38.52:473][802]LogMyGame: Warning: print
+[2018.06.17-02.38.52:495][803]LogMyGame: Warning: print
+[2018.06.17-02.38.52:522][804]LogMyGame: Warning: print
+[2018.06.17-02.38.52:545][805]LogMyGame: Warning: print
+[2018.06.17-02.38.52:567][806]LogMyGame: Warning: print
+[2018.06.17-02.38.52:591][807]LogMyGame: Warning: print
+[2018.06.17-02.38.52:613][808]LogMyGame: Warning: print
+[2018.06.17-02.38.52:637][809]LogMyGame: Warning: print
+[2018.06.17-02.38.52:660][810]LogMyGame: Warning: print
+[2018.06.17-02.38.52:683][811]LogMyGame: Warning: print
+[2018.06.17-02.38.52:706][812]LogMyGame: Warning: print
+[2018.06.17-02.38.52:730][813]LogMyGame: Warning: print
+[2018.06.17-02.38.52:754][814]LogMyGame: Warning: print
+[2018.06.17-02.38.52:777][815]LogMyGame: Warning: print
+[2018.06.17-02.38.52:800][816]LogMyGame: Warning: print
+[2018.06.17-02.38.52:823][817]LogMyGame: Warning: print
+[2018.06.17-02.38.52:847][818]LogMyGame: Warning: print
+[2018.06.17-02.38.52:871][819]LogMyGame: Warning: print
+[2018.06.17-02.38.52:894][820]LogMyGame: Warning: print
+[2018.06.17-02.38.52:916][821]LogMyGame: Warning: print
+[2018.06.17-02.38.52:938][822]LogMyGame: Warning: print
+[2018.06.17-02.38.52:961][823]LogMyGame: Warning: print
+[2018.06.17-02.38.52:984][824]LogMyGame: Warning: print
+[2018.06.17-02.38.53:007][825]LogMyGame: Warning: print
+[2018.06.17-02.38.53:030][826]LogMyGame: Warning: print
+[2018.06.17-02.38.53:054][827]LogMyGame: Warning: print
+[2018.06.17-02.38.53:077][828]LogMyGame: Warning: print
+[2018.06.17-02.38.53:100][829]LogMyGame: Warning: print
+[2018.06.17-02.38.53:124][830]LogMyGame: Warning: print
+[2018.06.17-02.38.53:146][831]LogMyGame: Warning: print
+[2018.06.17-02.38.53:171][832]LogMyGame: Warning: print
+[2018.06.17-02.38.53:195][833]LogMyGame: Warning: print
+[2018.06.17-02.38.53:219][834]LogMyGame: Warning: print
+[2018.06.17-02.38.53:242][835]LogMyGame: Warning: print
+[2018.06.17-02.38.53:265][836]LogMyGame: Warning: print
+[2018.06.17-02.38.53:289][837]LogMyGame: Warning: print
+[2018.06.17-02.38.53:312][838]LogMyGame: Warning: print
+[2018.06.17-02.38.53:337][839]LogMyGame: Warning: print
+[2018.06.17-02.38.53:361][840]LogMyGame: Warning: print
+[2018.06.17-02.38.53:384][841]LogMyGame: Warning: print
+[2018.06.17-02.38.53:407][842]LogMyGame: Warning: print
+[2018.06.17-02.38.53:429][843]LogMyGame: Warning: print
+[2018.06.17-02.38.53:453][844]LogMyGame: Warning: print
+[2018.06.17-02.38.53:477][845]LogMyGame: Warning: print
+[2018.06.17-02.38.53:499][846]LogMyGame: Warning: print
+[2018.06.17-02.38.53:523][847]LogMyGame: Warning: print
+[2018.06.17-02.38.53:545][848]LogMyGame: Warning: print
+[2018.06.17-02.38.53:568][849]LogMyGame: Warning: print
+[2018.06.17-02.38.53:592][850]LogMyGame: Warning: print
+[2018.06.17-02.38.53:615][851]LogMyGame: Warning: print
+[2018.06.17-02.38.53:638][852]LogMyGame: Warning: print
+[2018.06.17-02.38.53:661][853]LogMyGame: Warning: print
+[2018.06.17-02.38.53:685][854]LogMyGame: Warning: print
+[2018.06.17-02.38.53:708][855]LogMyGame: Warning: print
+[2018.06.17-02.38.53:731][856]LogMyGame: Warning: print
+[2018.06.17-02.38.53:755][857]LogMyGame: Warning: print
+[2018.06.17-02.38.53:778][858]LogMyGame: Warning: print
+[2018.06.17-02.38.53:800][859]LogMyGame: Warning: print
+[2018.06.17-02.38.53:825][860]LogMyGame: Warning: print
+[2018.06.17-02.38.53:848][861]LogMyGame: Warning: print
+[2018.06.17-02.38.53:872][862]LogMyGame: Warning: print
+[2018.06.17-02.38.53:895][863]LogMyGame: Warning: print
+[2018.06.17-02.38.53:915][864]LogMyGame: Warning: print
+[2018.06.17-02.38.53:940][865]LogMyGame: Warning: print
+[2018.06.17-02.38.53:962][866]LogMyGame: Warning: print
+[2018.06.17-02.38.53:984][867]LogMyGame: Warning: print
+[2018.06.17-02.38.54:008][868]LogMyGame: Warning: print
+[2018.06.17-02.38.54:031][869]LogMyGame: Warning: print
+[2018.06.17-02.38.54:057][870]LogMyGame: Warning: print
+[2018.06.17-02.38.54:082][871]LogMyGame: Warning: print
+[2018.06.17-02.38.54:108][872]LogMyGame: Warning: print
+[2018.06.17-02.38.54:131][873]LogMyGame: Warning: print
+[2018.06.17-02.38.54:156][874]LogMyGame: Warning: print
+[2018.06.17-02.38.54:182][875]LogMyGame: Warning: print
+[2018.06.17-02.38.54:208][876]LogMyGame: Warning: print
+[2018.06.17-02.38.54:232][877]LogMyGame: Warning: print
+[2018.06.17-02.38.54:256][878]LogMyGame: Warning: print
+[2018.06.17-02.38.54:279][879]LogMyGame: Warning: print
+[2018.06.17-02.38.54:303][880]LogMyGame: Warning: print
+[2018.06.17-02.38.54:328][881]LogMyGame: Warning: print
+[2018.06.17-02.38.54:349][882]LogMyGame: Warning: print
+[2018.06.17-02.38.54:373][883]LogMyGame: Warning: print
+[2018.06.17-02.38.54:397][884]LogMyGame: Warning: print
+[2018.06.17-02.38.54:420][885]LogMyGame: Warning: print
+[2018.06.17-02.38.54:443][886]LogMyGame: Warning: print
+[2018.06.17-02.38.54:467][887]LogMyGame: Warning: print
+[2018.06.17-02.38.54:494][888]LogMyGame: Warning: print
+[2018.06.17-02.38.54:519][889]LogMyGame: Warning: print
+[2018.06.17-02.38.54:543][890]LogMyGame: Warning: print
+[2018.06.17-02.38.54:565][891]LogMyGame: Warning: print
+[2018.06.17-02.38.54:595][892]LogMyGame: Warning: print
+[2018.06.17-02.38.54:619][893]LogMyGame: Warning: print
+[2018.06.17-02.38.54:643][894]LogMyGame: Warning: print
+[2018.06.17-02.38.54:666][895]LogMyGame: Warning: print
+[2018.06.17-02.38.54:689][896]LogMyGame: Warning: print
+[2018.06.17-02.38.54:712][897]LogMyGame: Warning: print
+[2018.06.17-02.38.54:736][898]LogMyGame: Warning: print
+[2018.06.17-02.38.54:758][899]LogMyGame: Warning: print
+[2018.06.17-02.38.54:781][900]LogMyGame: Warning: print
+[2018.06.17-02.38.54:804][901]LogMyGame: Warning: print
+[2018.06.17-02.38.54:828][902]LogMyGame: Warning: print
+[2018.06.17-02.38.54:851][903]LogMyGame: Warning: print
+[2018.06.17-02.38.54:876][904]LogMyGame: Warning: print
+[2018.06.17-02.38.54:899][905]LogMyGame: Warning: print
+[2018.06.17-02.38.54:922][906]LogMyGame: Warning: print
+[2018.06.17-02.38.54:945][907]LogMyGame: Warning: print
+[2018.06.17-02.38.54:968][908]LogMyGame: Warning: print
+[2018.06.17-02.38.54:992][909]LogMyGame: Warning: print
+[2018.06.17-02.38.55:015][910]LogMyGame: Warning: print
+[2018.06.17-02.38.55:038][911]LogMyGame: Warning: print
+[2018.06.17-02.38.55:062][912]LogMyGame: Warning: print
+[2018.06.17-02.38.55:084][913]LogMyGame: Warning: print
+[2018.06.17-02.38.55:110][914]LogMyGame: Warning: print
+[2018.06.17-02.38.55:134][915]LogMyGame: Warning: print
+[2018.06.17-02.38.55:158][916]LogMyGame: Warning: print
+[2018.06.17-02.38.55:181][917]LogMyGame: Warning: print
+[2018.06.17-02.38.55:205][918]LogMyGame: Warning: print
+[2018.06.17-02.38.55:228][919]LogMyGame: Warning: print
+[2018.06.17-02.38.55:253][920]LogMyGame: Warning: print
+[2018.06.17-02.38.55:275][921]LogMyGame: Warning: print
+[2018.06.17-02.38.55:298][922]LogMyGame: Warning: print
+[2018.06.17-02.38.55:321][923]LogMyGame: Warning: print
+[2018.06.17-02.38.55:344][924]LogMyGame: Warning: print
+[2018.06.17-02.38.55:367][925]LogMyGame: Warning: print
+[2018.06.17-02.38.55:392][926]LogMyGame: Warning: print
+[2018.06.17-02.38.55:415][927]LogMyGame: Warning: print
+[2018.06.17-02.38.55:439][928]LogMyGame: Warning: print
+[2018.06.17-02.38.55:463][929]LogMyGame: Warning: print
+[2018.06.17-02.38.55:487][930]LogMyGame: Warning: print
+[2018.06.17-02.38.55:510][931]LogMyGame: Warning: print
+[2018.06.17-02.38.55:535][932]LogMyGame: Warning: print
+[2018.06.17-02.38.55:559][933]LogMyGame: Warning: print
+[2018.06.17-02.38.55:582][934]LogMyGame: Warning: print
+[2018.06.17-02.38.55:606][935]LogMyGame: Warning: print
+[2018.06.17-02.38.55:629][936]LogMyGame: Warning: print
+[2018.06.17-02.38.55:651][937]LogMyGame: Warning: print
+[2018.06.17-02.38.55:676][938]LogMyGame: Warning: print
+[2018.06.17-02.38.55:698][939]LogMyGame: Warning: print
+[2018.06.17-02.38.55:721][940]LogMyGame: Warning: print
+[2018.06.17-02.38.55:746][941]LogMyGame: Warning: print
+[2018.06.17-02.38.55:769][942]LogMyGame: Warning: print
+[2018.06.17-02.38.55:793][943]LogMyGame: Warning: print
+[2018.06.17-02.38.55:817][944]LogMyGame: Warning: print
+[2018.06.17-02.38.55:841][945]LogMyGame: Warning: print
+[2018.06.17-02.38.55:865][946]LogMyGame: Warning: print
+[2018.06.17-02.38.55:889][947]LogMyGame: Warning: print
+[2018.06.17-02.38.55:913][948]LogMyGame: Warning: print
+[2018.06.17-02.38.55:938][949]LogMyGame: Warning: print
+[2018.06.17-02.38.55:961][950]LogMyGame: Warning: print
+[2018.06.17-02.38.55:984][951]LogMyGame: Warning: print
+[2018.06.17-02.38.56:010][952]LogMyGame: Warning: print
+[2018.06.17-02.38.56:036][953]LogMyGame: Warning: print
+[2018.06.17-02.38.56:059][954]LogMyGame: Warning: print
+[2018.06.17-02.38.56:085][955]LogMyGame: Warning: print
+[2018.06.17-02.38.56:111][956]LogMyGame: Warning: print
+[2018.06.17-02.38.56:135][957]LogMyGame: Warning: print
+[2018.06.17-02.38.56:165][958]LogMyGame: Warning: print
+[2018.06.17-02.38.56:192][959]LogMyGame: Warning: print
+[2018.06.17-02.38.56:215][960]LogMyGame: Warning: print
+[2018.06.17-02.38.56:242][961]LogMyGame: Warning: print
+[2018.06.17-02.38.56:266][962]LogMyGame: Warning: print
+[2018.06.17-02.38.56:292][963]LogMyGame: Warning: print
+[2018.06.17-02.38.56:315][964]LogMyGame: Warning: print
+[2018.06.17-02.38.56:342][965]LogMyGame: Warning: print
+[2018.06.17-02.38.56:369][966]LogMyGame: Warning: print
+[2018.06.17-02.38.56:394][967]LogMyGame: Warning: print
+[2018.06.17-02.38.56:417][968]LogMyGame: Warning: print
+[2018.06.17-02.38.56:442][969]LogMyGame: Warning: print
+[2018.06.17-02.38.56:470][970]LogMyGame: Warning: print
+[2018.06.17-02.38.56:494][971]LogMyGame: Warning: print
+[2018.06.17-02.38.56:519][972]LogMyGame: Warning: print
+[2018.06.17-02.38.56:547][973]LogMyGame: Warning: print
+[2018.06.17-02.38.56:571][974]LogMyGame: Warning: print
+[2018.06.17-02.38.56:596][975]LogMyGame: Warning: print
+[2018.06.17-02.38.56:621][976]LogMyGame: Warning: print
+[2018.06.17-02.38.56:646][977]LogMyGame: Warning: print
+[2018.06.17-02.38.56:672][978]LogMyGame: Warning: print
+[2018.06.17-02.38.56:696][979]LogMyGame: Warning: print
+[2018.06.17-02.38.56:721][980]LogMyGame: Warning: print
+[2018.06.17-02.38.56:747][981]LogMyGame: Warning: print
+[2018.06.17-02.38.56:773][982]LogMyGame: Warning: print
+[2018.06.17-02.38.56:797][983]LogMyGame: Warning: print
+[2018.06.17-02.38.56:821][984]LogMyGame: Warning: print
+[2018.06.17-02.38.56:845][985]LogMyGame: Warning: print
+[2018.06.17-02.38.56:870][986]LogMyGame: Warning: print
+[2018.06.17-02.38.56:894][987]LogMyGame: Warning: print
+[2018.06.17-02.38.56:921][988]LogMyGame: Warning: print
+[2018.06.17-02.38.56:944][989]LogMyGame: Warning: print
+[2018.06.17-02.38.56:972][990]LogMyGame: Warning: print
+[2018.06.17-02.38.56:994][991]LogMyGame: Warning: print
+[2018.06.17-02.38.57:020][992]LogMyGame: Warning: print
+[2018.06.17-02.38.57:044][993]LogMyGame: Warning: print
+[2018.06.17-02.38.57:070][994]LogMyGame: Warning: print
+[2018.06.17-02.38.57:093][995]LogMyGame: Warning: print
+[2018.06.17-02.38.57:121][996]LogMyGame: Warning: print
+[2018.06.17-02.38.57:144][997]LogMyGame: Warning: print
+[2018.06.17-02.38.57:171][998]LogMyGame: Warning: print
+[2018.06.17-02.38.57:194][999]LogMyGame: Warning: print
+[2018.06.17-02.38.57:221][  0]LogMyGame: Warning: print
+[2018.06.17-02.38.57:245][  1]LogMyGame: Warning: print
+[2018.06.17-02.38.57:270][  2]LogMyGame: Warning: print
+[2018.06.17-02.38.57:297][  3]LogMyGame: Warning: print
+[2018.06.17-02.38.57:322][  4]LogMyGame: Warning: print
+[2018.06.17-02.38.57:347][  5]LogMyGame: Warning: print
+[2018.06.17-02.38.57:371][  6]LogMyGame: Warning: print
+[2018.06.17-02.38.57:396][  7]LogMyGame: Warning: print
+[2018.06.17-02.38.57:423][  8]LogMyGame: Warning: print
+[2018.06.17-02.38.57:447][  9]LogMyGame: Warning: print
+[2018.06.17-02.38.57:473][ 10]LogMyGame: Warning: print
+[2018.06.17-02.38.57:498][ 11]LogMyGame: Warning: print
+[2018.06.17-02.38.57:525][ 12]LogMyGame: Warning: print
+[2018.06.17-02.38.57:547][ 13]LogMyGame: Warning: print
+[2018.06.17-02.38.57:574][ 14]LogMyGame: Warning: print
+[2018.06.17-02.38.57:597][ 15]LogMyGame: Warning: print
+[2018.06.17-02.38.57:622][ 16]LogMyGame: Warning: print
+[2018.06.17-02.38.57:646][ 17]LogMyGame: Warning: print
+[2018.06.17-02.38.57:679][ 18]LogMyGame: Warning: print
+[2018.06.17-02.38.57:714][ 19]LogMyGame: Warning: print
+[2018.06.17-02.38.57:748][ 20]LogMyGame: Warning: print
+[2018.06.17-02.38.57:783][ 21]LogMyGame: Warning: print
+[2018.06.17-02.38.57:820][ 22]LogMyGame: Warning: print
+[2018.06.17-02.38.57:857][ 23]LogMyGame: Warning: print
+[2018.06.17-02.38.57:896][ 24]LogMyGame: Warning: print
+[2018.06.17-02.38.57:933][ 25]LogMyGame: Warning: print
+[2018.06.17-02.38.57:971][ 26]LogMyGame: Warning: print
+[2018.06.17-02.38.58:006][ 27]LogMyGame: Warning: print
+[2018.06.17-02.38.58:044][ 28]LogMyGame: Warning: print
+[2018.06.17-02.38.58:083][ 29]LogMyGame: Warning: print
+[2018.06.17-02.38.58:120][ 30]LogMyGame: Warning: print
+[2018.06.17-02.38.58:155][ 31]LogMyGame: Warning: print
+[2018.06.17-02.38.58:191][ 32]LogMyGame: Warning: print
+[2018.06.17-02.38.58:229][ 33]LogMyGame: Warning: print
+[2018.06.17-02.38.58:264][ 34]LogMyGame: Warning: print
+[2018.06.17-02.38.58:303][ 35]LogMyGame: Warning: print
+[2018.06.17-02.38.58:338][ 36]LogMyGame: Warning: print
+[2018.06.17-02.38.58:373][ 37]LogMyGame: Warning: print
+[2018.06.17-02.38.58:412][ 38]LogMyGame: Warning: print
+[2018.06.17-02.38.58:448][ 39]LogMyGame: Warning: print
+[2018.06.17-02.38.58:484][ 40]LogMyGame: Warning: print
+[2018.06.17-02.38.58:520][ 41]LogMyGame: Warning: print
+[2018.06.17-02.38.58:557][ 42]LogMyGame: Warning: print
+[2018.06.17-02.38.58:591][ 43]LogMyGame: Warning: print
+[2018.06.17-02.38.58:627][ 44]LogMyGame: Warning: print
+[2018.06.17-02.38.58:660][ 45]LogMyGame: Warning: print
+[2018.06.17-02.38.58:695][ 46]LogMyGame: Warning: print
+[2018.06.17-02.38.58:734][ 47]LogMyGame: Warning: print
+[2018.06.17-02.38.58:771][ 48]LogMyGame: Warning: print
+[2018.06.17-02.38.58:804][ 49]LogMyGame: Warning: print
+[2018.06.17-02.38.58:838][ 50]LogMyGame: Warning: print
+[2018.06.17-02.38.58:870][ 51]LogMyGame: Warning: print
+[2018.06.17-02.38.58:904][ 52]LogMyGame: Warning: print
+[2018.06.17-02.38.58:935][ 53]LogMyGame: Warning: print
+[2018.06.17-02.38.58:965][ 54]LogMyGame: Warning: print
+[2018.06.17-02.38.58:994][ 55]LogMyGame: Warning: print
+[2018.06.17-02.38.59:024][ 56]LogMyGame: Warning: print
+[2018.06.17-02.38.59:052][ 57]LogMyGame: Warning: print
+[2018.06.17-02.38.59:083][ 58]LogMyGame: Warning: print
+[2018.06.17-02.38.59:111][ 59]LogMyGame: Warning: print
+[2018.06.17-02.38.59:140][ 60]LogMyGame: Warning: print
+[2018.06.17-02.38.59:166][ 61]LogMyGame: Warning: print
+[2018.06.17-02.38.59:195][ 62]LogMyGame: Warning: print
+[2018.06.17-02.38.59:224][ 63]LogMyGame: Warning: print
+[2018.06.17-02.38.59:249][ 64]LogMyGame: Warning: print
+[2018.06.17-02.38.59:276][ 65]LogMyGame: Warning: print
+[2018.06.17-02.38.59:301][ 66]LogMyGame: Warning: print
+[2018.06.17-02.38.59:326][ 67]LogMyGame: Warning: print
+[2018.06.17-02.38.59:355][ 68]LogMyGame: Warning: print
+[2018.06.17-02.38.59:380][ 69]LogMyGame: Warning: print
+[2018.06.17-02.38.59:407][ 70]LogMyGame: Warning: print
+[2018.06.17-02.38.59:431][ 71]LogMyGame: Warning: print
+[2018.06.17-02.38.59:460][ 72]LogMyGame: Warning: print
+[2018.06.17-02.38.59:492][ 73]LogMyGame: Warning: print
+[2018.06.17-02.38.59:522][ 74]LogMyGame: Warning: print
+[2018.06.17-02.38.59:556][ 75]LogMyGame: Warning: print
+[2018.06.17-02.38.59:586][ 76]LogMyGame: Warning: print
+[2018.06.17-02.38.59:619][ 77]LogMyGame: Warning: print
+[2018.06.17-02.38.59:652][ 78]LogMyGame: Warning: print
+[2018.06.17-02.38.59:685][ 79]LogMyGame: Warning: print
+[2018.06.17-02.38.59:716][ 80]LogMyGame: Warning: print
+[2018.06.17-02.38.59:749][ 81]LogMyGame: Warning: print
+[2018.06.17-02.38.59:782][ 82]LogMyGame: Warning: print
+[2018.06.17-02.38.59:815][ 83]LogMyGame: Warning: print
+[2018.06.17-02.38.59:849][ 84]LogMyGame: Warning: print
+[2018.06.17-02.38.59:883][ 85]LogMyGame: Warning: print
+[2018.06.17-02.38.59:920][ 86]LogMyGame: Warning: print
+[2018.06.17-02.38.59:957][ 87]LogMyGame: Warning: print
+[2018.06.17-02.38.59:994][ 88]LogMyGame: Warning: print
+[2018.06.17-02.39.00:039][ 89]LogMyGame: Warning: print
+[2018.06.17-02.39.00:078][ 90]LogMyGame: Warning: print
+[2018.06.17-02.39.00:119][ 91]LogMyGame: Warning: print
+[2018.06.17-02.39.00:159][ 92]LogMyGame: Warning: print
+[2018.06.17-02.39.00:200][ 93]LogMyGame: Warning: print
+[2018.06.17-02.39.00:237][ 94]LogMyGame: Warning: print
+[2018.06.17-02.39.00:275][ 95]LogMyGame: Warning: print
+[2018.06.17-02.39.00:314][ 96]LogMyGame: Warning: print
+[2018.06.17-02.39.00:352][ 97]LogMyGame: Warning: print
+[2018.06.17-02.39.00:390][ 98]LogMyGame: Warning: print
+[2018.06.17-02.39.00:426][ 99]LogMyGame: Warning: print
+[2018.06.17-02.39.00:461][100]LogMyGame: Warning: print
+[2018.06.17-02.39.00:494][101]LogMyGame: Warning: print
+[2018.06.17-02.39.00:527][102]LogMyGame: Warning: print
+[2018.06.17-02.39.00:560][103]LogMyGame: Warning: print
+[2018.06.17-02.39.00:594][104]LogMyGame: Warning: print
+[2018.06.17-02.39.00:630][105]LogMyGame: Warning: print
+[2018.06.17-02.39.00:665][106]LogMyGame: Warning: print
+[2018.06.17-02.39.00:698][107]LogMyGame: Warning: print
+[2018.06.17-02.39.00:730][108]LogMyGame: Warning: print
+[2018.06.17-02.39.00:763][109]LogMyGame: Warning: print
+[2018.06.17-02.39.00:795][110]LogMyGame: Warning: print
+[2018.06.17-02.39.00:827][111]LogMyGame: Warning: print
+[2018.06.17-02.39.00:864][112]LogMyGame: Warning: print
+[2018.06.17-02.39.00:898][113]LogMyGame: Warning: print
+[2018.06.17-02.39.00:934][114]LogMyGame: Warning: print
+[2018.06.17-02.39.00:966][115]LogMyGame: Warning: print
+[2018.06.17-02.39.01:000][116]LogMyGame: Warning: print
+[2018.06.17-02.39.01:034][117]LogMyGame: Warning: print
+[2018.06.17-02.39.01:069][118]LogMyGame: Warning: print
+[2018.06.17-02.39.01:105][119]LogMyGame: Warning: print
+[2018.06.17-02.39.01:139][120]LogMyGame: Warning: print
+[2018.06.17-02.39.01:173][121]LogMyGame: Warning: print
+[2018.06.17-02.39.01:206][122]LogMyGame: Warning: print
+[2018.06.17-02.39.01:238][123]LogMyGame: Warning: print
+[2018.06.17-02.39.01:270][124]LogMyGame: Warning: print
+[2018.06.17-02.39.01:302][125]LogMyGame: Warning: print
+[2018.06.17-02.39.01:335][126]LogMyGame: Warning: print
+[2018.06.17-02.39.01:367][127]LogMyGame: Warning: print
+[2018.06.17-02.39.01:399][128]LogMyGame: Warning: print
+[2018.06.17-02.39.01:432][129]LogMyGame: Warning: print
+[2018.06.17-02.39.01:461][130]LogMyGame: Warning: print
+[2018.06.17-02.39.01:493][131]LogMyGame: Warning: print
+[2018.06.17-02.39.01:526][132]LogMyGame: Warning: print
+[2018.06.17-02.39.01:559][133]LogMyGame: Warning: print
+[2018.06.17-02.39.01:592][134]LogMyGame: Warning: print
+[2018.06.17-02.39.01:621][135]LogMyGame: Warning: print
+[2018.06.17-02.39.01:652][136]LogMyGame: Warning: print
+[2018.06.17-02.39.01:681][137]LogMyGame: Warning: print
+[2018.06.17-02.39.01:710][138]LogMyGame: Warning: print
+[2018.06.17-02.39.01:741][139]LogMyGame: Warning: print
+[2018.06.17-02.39.01:769][140]LogMyGame: Warning: print
+[2018.06.17-02.39.01:800][141]LogMyGame: Warning: print
+[2018.06.17-02.39.01:830][142]LogMyGame: Warning: print
+[2018.06.17-02.39.01:859][143]LogMyGame: Warning: print
+[2018.06.17-02.39.01:888][144]LogMyGame: Warning: print
+[2018.06.17-02.39.01:915][145]LogMyGame: Warning: print
+[2018.06.17-02.39.01:943][146]LogMyGame: Warning: print
+[2018.06.17-02.39.01:972][147]LogMyGame: Warning: print
+[2018.06.17-02.39.02:002][148]LogMyGame: Warning: print
+[2018.06.17-02.39.02:030][149]LogMyGame: Warning: print
+[2018.06.17-02.39.02:059][150]LogMyGame: Warning: print
+[2018.06.17-02.39.02:084][151]LogMyGame: Warning: print
+[2018.06.17-02.39.02:110][152]LogMyGame: Warning: print
+[2018.06.17-02.39.02:139][153]LogMyGame: Warning: print
+[2018.06.17-02.39.02:164][154]LogMyGame: Warning: print
+[2018.06.17-02.39.02:190][155]LogMyGame: Warning: print
+[2018.06.17-02.39.02:217][156]LogMyGame: Warning: print
+[2018.06.17-02.39.02:242][157]LogMyGame: Warning: print
+[2018.06.17-02.39.02:268][158]LogMyGame: Warning: print
+[2018.06.17-02.39.02:291][159]LogMyGame: Warning: print
+[2018.06.17-02.39.02:321][160]LogMyGame: Warning: print
+[2018.06.17-02.39.02:346][161]LogMyGame: Warning: print
+[2018.06.17-02.39.02:373][162]LogMyGame: Warning: print
+[2018.06.17-02.39.02:398][163]LogMyGame: Warning: print
+[2018.06.17-02.39.02:425][164]LogMyGame: Warning: print
+[2018.06.17-02.39.02:448][165]LogMyGame: Warning: print
+[2018.06.17-02.39.02:474][166]LogMyGame: Warning: print
+[2018.06.17-02.39.02:498][167]LogMyGame: Warning: print
+[2018.06.17-02.39.02:523][168]LogMyGame: Warning: print
+[2018.06.17-02.39.02:552][169]LogMyGame: Warning: print
+[2018.06.17-02.39.02:583][170]LogMyGame: Warning: print
+[2018.06.17-02.39.02:609][171]LogMyGame: Warning: print
+[2018.06.17-02.39.02:637][172]LogMyGame: Warning: print
+[2018.06.17-02.39.02:664][173]LogMyGame: Warning: print
+[2018.06.17-02.39.02:691][174]LogMyGame: Warning: print
+[2018.06.17-02.39.02:716][175]LogMyGame: Warning: print
+[2018.06.17-02.39.02:742][176]LogMyGame: Warning: print
+[2018.06.17-02.39.02:768][177]LogMyGame: Warning: print
+[2018.06.17-02.39.02:798][178]LogMyGame: Warning: print
+[2018.06.17-02.39.02:830][179]LogMyGame: Warning: print
+[2018.06.17-02.39.02:860][180]LogMyGame: Warning: print
+[2018.06.17-02.39.02:887][181]LogMyGame: Warning: print
+[2018.06.17-02.39.02:918][182]LogMyGame: Warning: print
+[2018.06.17-02.39.02:955][183]LogMyGame: Warning: print
+[2018.06.17-02.39.02:989][184]LogMyGame: Warning: print
+[2018.06.17-02.39.03:022][185]LogMyGame: Warning: print
+[2018.06.17-02.39.03:055][186]LogMyGame: Warning: print
+[2018.06.17-02.39.03:088][187]LogMyGame: Warning: print
+[2018.06.17-02.39.03:120][188]LogMyGame: Warning: print
+[2018.06.17-02.39.03:151][189]LogMyGame: Warning: print
+[2018.06.17-02.39.03:181][190]LogMyGame: Warning: print
+[2018.06.17-02.39.03:213][191]LogMyGame: Warning: print
+[2018.06.17-02.39.03:243][192]LogMyGame: Warning: print
+[2018.06.17-02.39.03:277][193]LogMyGame: Warning: print
+[2018.06.17-02.39.03:310][194]LogMyGame: Warning: print
+[2018.06.17-02.39.03:341][195]LogMyGame: Warning: print
+[2018.06.17-02.39.03:371][196]LogMyGame: Warning: print
+[2018.06.17-02.39.03:401][197]LogMyGame: Warning: print
+[2018.06.17-02.39.03:430][198]LogMyGame: Warning: print
+[2018.06.17-02.39.03:460][199]LogMyGame: Warning: print
+[2018.06.17-02.39.03:490][200]LogMyGame: Warning: print
+[2018.06.17-02.39.03:521][201]LogMyGame: Warning: print
+[2018.06.17-02.39.03:551][202]LogMyGame: Warning: print
+[2018.06.17-02.39.03:581][203]LogMyGame: Warning: print
+[2018.06.17-02.39.03:611][204]LogMyGame: Warning: print
+[2018.06.17-02.39.03:641][205]LogMyGame: Warning: print
+[2018.06.17-02.39.03:670][206]LogMyGame: Warning: print
+[2018.06.17-02.39.03:704][207]LogMyGame: Warning: print
+[2018.06.17-02.39.03:737][208]LogMyGame: Warning: print
+[2018.06.17-02.39.03:768][209]LogMyGame: Warning: print
+[2018.06.17-02.39.03:798][210]LogMyGame: Warning: print
+[2018.06.17-02.39.03:828][211]LogMyGame: Warning: print
+[2018.06.17-02.39.03:858][212]LogMyGame: Warning: print
+[2018.06.17-02.39.03:886][213]LogMyGame: Warning: print
+[2018.06.17-02.39.03:916][214]LogMyGame: Warning: print
+[2018.06.17-02.39.03:944][215]LogMyGame: Warning: print
+[2018.06.17-02.39.03:978][216]LogMyGame: Warning: print
+[2018.06.17-02.39.04:007][217]LogMyGame: Warning: print
+[2018.06.17-02.39.04:036][218]LogMyGame: Warning: print
+[2018.06.17-02.39.04:066][219]LogMyGame: Warning: print
+[2018.06.17-02.39.04:094][220]LogMyGame: Warning: print
+[2018.06.17-02.39.04:126][221]LogMyGame: Warning: print
+[2018.06.17-02.39.04:155][222]LogMyGame: Warning: print
+[2018.06.17-02.39.04:180][223]LogMyGame: Warning: print
+[2018.06.17-02.39.04:208][224]LogMyGame: Warning: print
+[2018.06.17-02.39.04:234][225]LogMyGame: Warning: print
+[2018.06.17-02.39.04:261][226]LogMyGame: Warning: print
+[2018.06.17-02.39.04:288][227]LogMyGame: Warning: print
+[2018.06.17-02.39.04:316][228]LogMyGame: Warning: print
+[2018.06.17-02.39.04:343][229]LogMyGame: Warning: print
+[2018.06.17-02.39.04:369][230]LogMyGame: Warning: print
+[2018.06.17-02.39.04:396][231]LogMyGame: Warning: print
+[2018.06.17-02.39.04:425][232]LogMyGame: Warning: print
+[2018.06.17-02.39.04:453][233]LogMyGame: Warning: print
+[2018.06.17-02.39.04:479][234]LogMyGame: Warning: print
+[2018.06.17-02.39.04:508][235]LogMyGame: Warning: print
+[2018.06.17-02.39.04:535][236]LogMyGame: Warning: print
+[2018.06.17-02.39.04:564][237]LogMyGame: Warning: print
+[2018.06.17-02.39.04:596][238]LogMyGame: Warning: print
+[2018.06.17-02.39.04:635][239]LogMyGame: Warning: print
+[2018.06.17-02.39.04:677][240]LogMyGame: Warning: print
+[2018.06.17-02.39.04:722][241]LogMyGame: Warning: print
+[2018.06.17-02.39.04:762][242]LogMyGame: Warning: print
+[2018.06.17-02.39.04:804][243]LogMyGame: Warning: print
+[2018.06.17-02.39.04:846][244]LogMyGame: Warning: print
+[2018.06.17-02.39.04:884][245]LogMyGame: Warning: print
+[2018.06.17-02.39.04:930][246]LogMyGame: Warning: print
+[2018.06.17-02.39.04:970][247]LogMyGame: Warning: print
+[2018.06.17-02.39.05:012][248]LogMyGame: Warning: print
+[2018.06.17-02.39.05:052][249]LogMyGame: Warning: print
+[2018.06.17-02.39.05:094][250]LogMyGame: Warning: print
+[2018.06.17-02.39.05:144][251]LogMyGame: Warning: print
+[2018.06.17-02.39.05:186][252]LogMyGame: Warning: print
+[2018.06.17-02.39.05:229][253]LogMyGame: Warning: print
+[2018.06.17-02.39.05:274][254]LogMyGame: Warning: print
+[2018.06.17-02.39.05:323][255]LogMyGame: Warning: print
+[2018.06.17-02.39.05:365][256]LogMyGame: Warning: print
+[2018.06.17-02.39.05:408][257]LogMyGame: Warning: print
+[2018.06.17-02.39.05:454][258]LogMyGame: Warning: print
+[2018.06.17-02.39.05:501][259]LogMyGame: Warning: print
+[2018.06.17-02.39.05:543][260]LogMyGame: Warning: print
+[2018.06.17-02.39.05:585][261]LogMyGame: Warning: print
+[2018.06.17-02.39.05:627][262]LogMyGame: Warning: print
+[2018.06.17-02.39.05:671][263]LogMyGame: Warning: print
+[2018.06.17-02.39.05:713][264]LogMyGame: Warning: print
+[2018.06.17-02.39.05:755][265]LogMyGame: Warning: print
+[2018.06.17-02.39.05:798][266]LogMyGame: Warning: print
+[2018.06.17-02.39.05:840][267]LogMyGame: Warning: print
+[2018.06.17-02.39.05:882][268]LogMyGame: Warning: print
+[2018.06.17-02.39.05:925][269]LogMyGame: Warning: print
+[2018.06.17-02.39.05:968][270]LogMyGame: Warning: print
+[2018.06.17-02.39.06:010][271]LogMyGame: Warning: print
+[2018.06.17-02.39.06:055][272]LogMyGame: Warning: print
+[2018.06.17-02.39.06:102][273]LogMyGame: Warning: print
+[2018.06.17-02.39.06:147][274]LogMyGame: Warning: print
+[2018.06.17-02.39.06:191][275]LogMyGame: Warning: print
+[2018.06.17-02.39.06:234][276]LogMyGame: Warning: print
+[2018.06.17-02.39.06:290][277]LogMyGame: Warning: print
+[2018.06.17-02.39.06:330][278]LogMyGame: Warning: print
+[2018.06.17-02.39.06:375][279]LogMyGame: Warning: print
+[2018.06.17-02.39.06:418][280]LogMyGame: Warning: print
+[2018.06.17-02.39.06:466][281]LogMyGame: Warning: print
+[2018.06.17-02.39.06:508][282]LogMyGame: Warning: print
+[2018.06.17-02.39.06:550][283]LogMyGame: Warning: print
+[2018.06.17-02.39.06:595][284]LogMyGame: Warning: print
+[2018.06.17-02.39.06:638][285]LogMyGame: Warning: print
+[2018.06.17-02.39.06:680][286]LogMyGame: Warning: print
+[2018.06.17-02.39.06:723][287]LogMyGame: Warning: print
+[2018.06.17-02.39.06:765][288]LogMyGame: Warning: print
+[2018.06.17-02.39.06:809][289]LogMyGame: Warning: print
+[2018.06.17-02.39.06:852][290]LogMyGame: Warning: print
+[2018.06.17-02.39.06:894][291]LogMyGame: Warning: print
+[2018.06.17-02.39.06:936][292]LogMyGame: Warning: print
+[2018.06.17-02.39.06:978][293]LogMyGame: Warning: print
+[2018.06.17-02.39.07:023][294]LogMyGame: Warning: print
+[2018.06.17-02.39.07:065][295]LogMyGame: Warning: print
+[2018.06.17-02.39.07:108][296]LogMyGame: Warning: print
+[2018.06.17-02.39.07:151][297]LogMyGame: Warning: print
+[2018.06.17-02.39.07:194][298]LogMyGame: Warning: print
+[2018.06.17-02.39.07:237][299]LogMyGame: Warning: print
+[2018.06.17-02.39.07:280][300]LogMyGame: Warning: print
+[2018.06.17-02.39.07:323][301]LogMyGame: Warning: print
+[2018.06.17-02.39.07:365][302]LogMyGame: Warning: print
+[2018.06.17-02.39.07:407][303]LogMyGame: Warning: print
+[2018.06.17-02.39.07:448][304]LogMyGame: Warning: print
+[2018.06.17-02.39.07:489][305]LogMyGame: Warning: print
+[2018.06.17-02.39.07:532][306]LogMyGame: Warning: print
+[2018.06.17-02.39.07:575][307]LogMyGame: Warning: print
+[2018.06.17-02.39.07:615][308]LogMyGame: Warning: print
+[2018.06.17-02.39.07:655][309]LogMyGame: Warning: print
+[2018.06.17-02.39.07:697][310]LogMyGame: Warning: print
+[2018.06.17-02.39.07:737][311]LogMyGame: Warning: print
+[2018.06.17-02.39.07:778][312]LogMyGame: Warning: print
+[2018.06.17-02.39.07:821][313]LogMyGame: Warning: print
+[2018.06.17-02.39.08:159][314]LogMyGame: Warning: print
+[2018.06.17-02.39.08:489][315]LogMyGame: Warning: print
+[2018.06.17-02.39.08:824][316]LogMyGame: Warning: print
+[2018.06.17-02.39.09:177][317]LogMyGame: Warning: print
+[2018.06.17-02.39.09:209][318]LogMyGame: Warning: print
+[2018.06.17-02.39.09:246][319]LogMyGame: Warning: print
+[2018.06.17-02.39.09:344][320]LogMyGame: Warning: print
+[2018.06.17-02.39.09:421][321]LogMyGame: Warning: print
+[2018.06.17-02.39.09:466][322]LogMyGame: Warning: print
+[2018.06.17-02.39.09:508][323]LogMyGame: Warning: print
+[2018.06.17-02.39.09:553][324]LogMyGame: Warning: print
+[2018.06.17-02.39.09:596][325]LogMyGame: Warning: print
+[2018.06.17-02.39.09:681][326]LogMyGame: Warning: print
+[2018.06.17-02.39.09:723][327]LogMyGame: Warning: print
+[2018.06.17-02.39.09:762][328]LogMyGame: Warning: print
+[2018.06.17-02.39.09:827][329]LogMyGame: Warning: print
+[2018.06.17-02.39.09:874][330]LogMyGame: Warning: print
+[2018.06.17-02.39.09:917][331]LogMyGame: Warning: print
+[2018.06.17-02.39.09:963][332]LogMyGame: Warning: print
+[2018.06.17-02.39.10:010][333]LogMyGame: Warning: print
+[2018.06.17-02.39.10:057][334]LogMyGame: Warning: print
+[2018.06.17-02.39.10:107][335]LogMyGame: Warning: print
+[2018.06.17-02.39.10:148][336]LogMyGame: Warning: print
+[2018.06.17-02.39.10:197][337]LogMyGame: Warning: print
+[2018.06.17-02.39.10:239][338]LogMyGame: Warning: print
+[2018.06.17-02.39.10:280][339]LogMyGame: Warning: print
+[2018.06.17-02.39.10:326][340]LogMyGame: Warning: print
+[2018.06.17-02.39.10:367][341]LogMyGame: Warning: print
+[2018.06.17-02.39.10:704][342]LogMyGame: Warning: print
+[2018.06.17-02.39.11:036][343]LogMyGame: Warning: print
+[2018.06.17-02.39.11:368][344]LogMyGame: Warning: print
+[2018.06.17-02.39.11:701][345]LogMyGame: Warning: print
+[2018.06.17-02.39.12:034][346]LogMyGame: Warning: print
+[2018.06.17-02.39.12:366][347]LogMyGame: Warning: print
+[2018.06.17-02.39.12:388][348]LogMyGame: Warning: print
+[2018.06.17-02.39.12:416][349]LogMyGame: Warning: print
+[2018.06.17-02.39.12:457][350]LogMyGame: Warning: print
+[2018.06.17-02.39.12:497][351]LogMyGame: Warning: print
+[2018.06.17-02.39.12:536][352]LogMyGame: Warning: print
+[2018.06.17-02.39.12:581][353]LogMyGame: Warning: print
+[2018.06.17-02.39.12:626][354]LogMyGame: Warning: print
+[2018.06.17-02.39.12:665][355]LogMyGame: Warning: print
+[2018.06.17-02.39.12:707][356]LogMyGame: Warning: print
+[2018.06.17-02.40.32:051][ 78]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.06.17-02.41.05:225][  0]Cmd: TRANSACTION UNDO
+[2018.06.17-02.41.05:225][  0]LogEditorTransaction: Undo Create Actors
+[2018.06.17-02.41.05:232][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.17-02.41.06:942][103]Cmd: TRANSACTION UNDO
+[2018.06.17-02.41.06:942][103]LogEditorTransaction: Undo Create Actors
+[2018.06.17-02.41.12:559][440]Cmd: TRANSACTION UNDO
+[2018.06.17-02.41.12:559][440]LogEditorTransaction: Undo Create Actors
+[2018.06.17-02.42.14:729][515]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.17-02.42.14:920][516]Cmd: QUIT_EDITOR
+[2018.06.17-02.42.14:990][516]LogExit: Preparing to exit.
+[2018.06.17-02.42.15:375][516]LogDirectoryWatcher: A directory notification for 'C:/Users/paull/Desktop/Unreal Shits/ProceduralGenerator/Content/' was aborted.
+[2018.06.17-02.42.15:405][516]LogExit: Editor shut down
+[2018.06.17-02.42.15:409][516]LogExit: Transaction tracking system shut down
+[2018.06.17-02.42.15:587][516]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.17-02.42.15:587][516]LogDirectoryWatcher: A directory notification for '../../../../../../Users/paull/Desktop/Unreal Shits/ProceduralGenerator/Content/' was aborted.
+[2018.06.17-02.42.15:587][516]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.17-02.42.15:587][516]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.17-02.42.15:587][516]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.17-02.42.15:587][516]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.17-02.42.15:587][516]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.17-02.42.15:674][516]LogExit: Object subsystem successfully closed.
+[2018.06.17-02.42.15:689][516]LogD3D11RHI: Shutdown
+[2018.06.17-02.42.15:689][516]LogD3D11RHI: CleanupD3DDevice
+[2018.06.17-02.42.15:692][516]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.17-02.42.15:708][516]LogModuleManager: Shutting down and abandoning module TextureEditor (556)
+[2018.06.17-02.42.15:708][516]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.06.17-02.42.15:708][516]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.06.17-02.42.15:708][516]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.06.17-02.42.15:708][516]LogModuleManager: Shutting down and abandoning module DesktopPlatform (548)
+[2018.06.17-02.42.15:708][516]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.06.17-02.42.15:709][516]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.06.17-02.42.15:709][516]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.06.17-02.42.15:710][516]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.06.17-02.42.15:710][516]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.06.17-02.42.15:710][516]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.06.17-02.42.15:710][516]LogDirectoryWatcher: A directory notification for 'C:/Users/paull/Desktop/Unreal Shits/ProceduralGenerator/Content/Collections/' was aborted.
+[2018.06.17-02.42.15:710][516]LogDirectoryWatcher: A directory notification for 'C:/Users/paull/Desktop/Unreal Shits/ProceduralGenerator/Content/Developers/paull/Collections/' was aborted.
+[2018.06.17-02.42.15:710][516]LogDirectoryWatcher: A directory notification for 'C:/Users/paull/Desktop/Unreal Shits/ProceduralGenerator/Saved/Collections/' was aborted.
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.06.17-02.42.15:711][516]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.06.17-02.42.15:712][516]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.06.17-02.42.15:712][516]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.06.17-02.42.15:712][516]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.06.17-02.42.15:712][516]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.06.17-02.42.15:712][516]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.06.17-02.42.15:712][516]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.06.17-02.42.16:096][516]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.06.17-02.42.16:149][516]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.06.17-02.42.16:149][516]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.06.17-02.42.16:149][516]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.06.17-02.42.16:149][516]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.06.17-02.42.16:149][516]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.06.17-02.42.16:149][516]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.06.17-02.42.16:149][516]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.06.17-02.42.16:149][516]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.06.17-02.42.16:149][516]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.06.17-02.42.16:149][516]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.06.17-02.42.16:155][516]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.06.17-02.42.16:261][516]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.06.17-02.42.16:262][516]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.06.17-02.42.16:262][516]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.06.17-02.42.16:262][516]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.06.17-02.42.16:262][516]LogDirectoryWatcher: A directory notification for 'C:/Users/paull/Desktop/Unreal Shits/ProceduralGenerator/Binaries/Win64' was aborted.
+[2018.06.17-02.42.16:263][516]LogModuleManager: Shutting down and abandoning module ProceduralGenerator (270)
+[2018.06.17-02.42.16:263][516]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.06.17-02.42.16:263][516]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.06.17-02.42.16:263][516]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.06.17-02.42.16:263][516]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.06.17-02.42.16:263][516]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.06.17-02.42.16:263][516]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.06.17-02.42.16:263][516]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.06.17-02.42.16:263][516]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.06.17-02.42.16:364][516]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.06.17-02.42.16:465][516]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.06.17-02.42.16:465][516]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.06.17-02.42.16:465][516]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.06.17-02.42.16:465][516]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.06.17-02.42.16:465][516]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.06.17-02.42.16:465][516]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.06.17-02.42.16:466][516]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.06.17-02.42.16:466][516]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.06.17-02.42.16:466][516]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.06.17-02.42.16:466][516]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.06.17-02.42.16:468][516]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.06.17-02.42.16:468][516]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.06.17-02.42.16:468][516]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.06.17-02.42.16:468][516]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.06.17-02.42.16:468][516]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.06.17-02.42.16:468][516]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.06.17-02.42.16:474][516]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.06.17-02.42.16:474][516]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.06.17-02.42.16:474][516]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.06.17-02.42.16:474][516]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.06.17-02.42.16:474][516]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.06.17-02.42.16:474][516]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.06.17-02.42.16:474][516]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.06.17-02.42.16:474][516]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.06.17-02.42.16:474][516]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.06.17-02.42.16:475][516]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.06.17-02.42.16:475][516]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.06.17-02.42.16:475][516]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.06.17-02.42.16:475][516]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.06.17-02.42.16:475][516]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.06.17-02.42.16:475][516]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.06.17-02.42.16:475][516]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.06.17-02.42.16:477][516]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.06.17-02.42.16:477][516]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.06.17-02.42.16:477][516]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.06.17-02.42.16:477][516]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.06.17-02.42.16:477][516]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.06.17-02.42.16:477][516]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.06.17-02.42.16:477][516]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.06.17-02.42.16:477][516]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.06.17-02.42.16:478][516]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.06.17-02.42.16:478][516]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.06.17-02.42.16:478][516]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.06.17-02.42.16:478][516]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.06.17-02.42.16:478][516]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.06.17-02.42.16:478][516]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.06.17-02.42.16:478][516]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.06.17-02.42.16:478][516]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.06.17-02.42.16:478][516]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.06.17-02.42.16:513][516]LogDerivedDataCache: Shutdown
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.06.17-02.42.16:513][516]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.06.17-02.42.16:514][516]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.06.17-02.42.16:515][516]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.06.17-02.42.16:515][516]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.06.17-02.42.16:515][516]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.17-02.42.16:515][516]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.17-02.42.16:515][516]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.17-02.42.16:515][516]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.17-02.42.16:515][516]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.17-02.42.16:515][516]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.17-02.42.16:515][516]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B360616DE-4094-E541-537D-1FAEC5A1BD12%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=f961020346b264568ff97f9f1fd5fb72%7Ca84b399ba1354bd2ab232b65fcd03d2e%7C48c5246f-540b-4f9b-8621-42f6bbab6e15&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.17-02.42.16:526][516]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.17-02.42.16:527][516]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.17-02.42.16:527][516]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.17-02.42.16:527][516]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.17-02.42.16:527][516]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.17-02.42.16:527][516]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.17-02.42.16:527][516]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.17-02.42.16:527][516]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.17-02.42.16:528][516]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.17-02.42.16:528][516]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.17-02.42.16:528][516]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.17-02.42.16:528][516]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.17-02.42.16:529][516]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.17-02.42.16:529][516]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.17-02.42.16:529][516]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.17-02.42.16:529][516]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.17-02.42.16:529][516]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.17-02.42.16:529][516]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.17-02.42.16:529][516]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.17-02.42.16:532][516]LogExit: Exiting.
+[2018.06.17-02.42.16:547][516]Log file closed, 06/16/18 19:42:16
